@@ -1,6 +1,6 @@
 # BEFIKR
 
-**Bhool ja apne sare dar, Ban Befikr.**
+**Bhool Ja Saare Dar - Ban Befikr!**
 
 BEFIKR is a mobile-first safety support application with five connected modules: RAAHI, RAAZ, BAAT BANAO, BACKUP, and SAFE SPOT. This workspace contains a runnable progressive web app (PWA), a FastAPI modular-monolith development backend, local SQLite persistence, a privacy-gated moderation pipeline, an explainable prototype risk engine, a PostGIS production schema reference, and workflow tests.
 

@@ -1,0 +1,2223 @@
+{
+  "scripts": {
+    "mother-checking-in-hindi": {
+      "folder": "mom-checking-in-hi",
+      "audio_clips": [
+        "/assets/baat-banao/mom-checking-in-hi/01.mp3?v=21353b89b082",
+        "/assets/baat-banao/mom-checking-in-hi/02.mp3?v=24e7d19e23f1",
+        "/assets/baat-banao/mom-checking-in-hi/03.mp3?v=28c6dfba4272",
+        "/assets/baat-banao/mom-checking-in-hi/04.mp3?v=c489d8e02d9a",
+        "/assets/baat-banao/mom-checking-in-hi/05.mp3?v=27685b7bc974",
+        "/assets/baat-banao/mom-checking-in-hi/06.mp3?v=73fdeef819dc"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "हेलो बेटा! हाँ, कहाँ पहुँच गई तू? कब से तेरा इंतज़ार कर रही हूँ मैं।",
+          "hinglish": "Hello beta! Haan, kahaan pahunch gayi tu? Kab se tera intezaar kar rahi hoon main.",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa"
+        },
+        {
+          "speaker": "user",
+          "text": "बस माँ, आ रही हूँ।",
+          "hinglish": "Bas Maa, aa rahi hoon.",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा, और कितनी देर लगेगी? खाना भी लगा दिया है मैंने। तुझे पता है न, मैं तेरे बिना खाना नहीं खाती।",
+          "hinglish": "Achha, aur kitni der lagegi? Khana bhi laga diya hai maine. Tujhe pata hai na, main tere bina khana nahi khaati.",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ माँ, बस थोड़ी देर में पहुँच जाऊँगी।",
+          "hinglish": "Haan Maa, bas thodi der mein pahunch jaaungi.",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा सुन, आज तेरे पापा भी जल्दी घर आ गए हैं। तेरे बारे में ही पूछ रहे थे। कह रहे थे कि बेटी को फ़ोन लगाओ, कहाँ रह गई है।",
+          "hinglish": "Achha sun, aaj tere papa bhi jaldi ghar aa gaye hain. Tere baare mein hi pooch rahe the. Keh rahe the ki beti ko phone lagao, kahaan reh gayi hai.",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa"
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, ठीक है माँ।",
+          "hinglish": "Achha, theek hai Maa.",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti"
+        },
+        {
+          "speaker": "caller",
+          "text": "और सुन, कल तूने मुझे उस कपड़े के बारे में बताया था न, मैंने वह देख लिया है। बहुत सुंदर है! घर आकर मुझे दोबारा दिखाना।",
+          "hinglish": "Aur sun, kal tune mujhe us kapde ke baare mein bataya tha na, maine woh dekh liya hai. Bahut sundar hai! Ghar aakar mujhe dobara dikhana.",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ माँ, दिखा दूँगी।",
+          "hinglish": "Haan Maa, dikha doongi.",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा, एक काम करना। जब तू घर के पास पहुँच जाए न, तो मुझे बता देना। मैं दरवाज़ा खोल दूँगी। और अपना फ़ोन पास ही रखना, समझी?",
+          "hinglish": "Achha, ek kaam karna. Jab tu ghar ke paas pahunch jaaye na, toh mujhe bata dena. Main darwaaza khol doongi. Aur apna phone paas hi rakhna, samjhi?",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ माँ।",
+          "hinglish": "Haan Maa.",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti"
+        },
+        {
+          "speaker": "caller",
+          "text": "चल, ठीक है बेटा। आराम से आना। मैं यहीं हूँ, तेरा इंतज़ार कर रही हूँ।",
+          "hinglish": "Chal, theek hai beta. Aaram se aana. Main yahin hoon, tera intezaar kar rahi hoon.",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa"
+        }
+      ],
+      "caller_turn_count": 6,
+      "missing_audio_turns": []
+    },
+    "mother-checking-in-english": {
+      "folder": "mom-checking-in-eng",
+      "audio_clips": [
+        "/assets/baat-banao/mom-checking-in-eng/1.mp3?v=c2ed50dbc896",
+        "/assets/baat-banao/mom-checking-in-eng/2.mp3?v=de756be6891a",
+        "/assets/baat-banao/mom-checking-in-eng/3.mp3?v=cc6c68c80ff3",
+        "/assets/baat-banao/mom-checking-in-eng/4.mp3?v=dc1000edca89",
+        "/assets/baat-banao/mom-checking-in-eng/5.mp3?v=538f10d9d409",
+        "/assets/baat-banao/mom-checking-in-eng/6.mp3?v=39529b50f6a7"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hello, sweetheart! Hey, where have you reached? I've been waiting for you for so long.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "I'm coming, Mom. I'll be there soon.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, how much longer will you take? I've already served dinner. You know I never eat without you.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Mom. Just a little while longer.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Listen, your father came home early today as well. He was asking about you. He said, \"Call our daughter and ask where she has been.\"",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, okay, Mom.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "And listen, remember that dress you told me about yesterday? I found it! It's really beautiful. Show it to me again when you get home.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Mom. I'll show you.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, do one thing. Let me know when you're close to home. I'll open the gate for you. And keep your phone with you, understood?",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Mom.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, sweetheart. Come home safely and take your time. I'll be right here waiting for you.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        }
+      ],
+      "caller_turn_count": 6,
+      "missing_audio_turns": []
+    },
+    "mother-worried-hindi": {
+      "folder": "worried-mom-hi",
+      "audio_clips": [
+        "/assets/baat-banao/worried-mom-hi/1.mp3?v=a1e36ee873d6",
+        "/assets/baat-banao/worried-mom-hi/2.mp3?v=975d6695c9cc",
+        "/assets/baat-banao/worried-mom-hi/3.mp3?v=22d5ab5b4109",
+        "/assets/baat-banao/worried-mom-hi/4.mp3?v=80d2b14611db",
+        "/assets/baat-banao/worried-mom-hi/5.mp3?v=e4b8d7e4e701"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "अरे बेटा! कहाँ है तू? मैं सोच रही थी कि आज तुझे लेने आ जाऊँ।",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa",
+          "hinglish": "Arey beta! Kahaan hai tu? Main soch rahi thi ki aaj tujhe lene aa jaaun."
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं माँ, मैं आ जाऊँगी।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Nahi Maa, main aa jaaungi."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा? पक्का? देख, अगर कोई परेशानी हो तो मुझे बता देना। आज मैं और तेरे पापा, दोनों खाली हैं।",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa",
+          "hinglish": "Achha? Pakka? Dekh, agar koi pareshaani ho toh mujhe bata dena. Aaj main aur tere Papa, dono khaali hain."
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ माँ, बता दूँगी।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Haan Maa, bata doongi."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा सुन, घर आते समय दूध ले आना। सुबह से खत्म हो गया है। और हाँ, वे बिस्कुट भी ले आना जो पिछली बार लाई थी।",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa",
+          "hinglish": "Achha sun, ghar aate samay doodh le aana. Subah se khatam ho gaya hai. Aur haan, woh biscuit bhi le aana jo pichhli baar laayi thi."
+        },
+        {
+          "speaker": "user",
+          "text": "माँ, आपको तो बस खाने-पीने की पड़ी रहती है!",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Maa, aapko toh bas khaane-peene ki padi rehti hai!"
+        },
+        {
+          "speaker": "caller",
+          "text": "हाहाहा! तो और क्या करूँ? तुम लोगों के लिए ही तो बनाती रहती हूँ।",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa",
+          "hinglish": "Hahaha! Toh aur kya karoon? Tum logon ke liye hi toh banaati rehti hoon."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, ठीक है।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Achha, theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "चल, अब जल्दी आ। तेरे पापा भी तेरे बारे में पूछ रहे थे। मैं उन्हें बता देती हूँ कि तू आ रही है।",
+          "source_label": "माँ",
+          "speaker_label_hinglish": "Maa",
+          "hinglish": "Chal, ab jaldi aa. Tere Papa bhi tere baare mein pooch rahe the. Main unhe bata deti hoon ki tu aa rahi hai."
+        }
+      ],
+      "caller_turn_count": 5,
+      "missing_audio_turns": []
+    },
+    "mother-worried-english": {
+      "folder": "worried-mom-eng",
+      "audio_clips": [
+        "/assets/baat-banao/worried-mom-eng/1.mp3?v=70854280ff54",
+        "/assets/baat-banao/worried-mom-eng/2.mp3?v=6a13402fea82",
+        "/assets/baat-banao/worried-mom-eng/3.mp3?v=8c3942bb5273",
+        "/assets/baat-banao/worried-mom-eng/4.mp3?v=a351551ffc4b",
+        "/assets/baat-banao/worried-mom-eng/5.mp3?v=278ed93f6640"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hey, sweetheart! Where are you? I was thinking of coming to pick you up today.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "No, Mom. I'll come home on my own.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Really? Are you sure? Listen, let me know if you run into any trouble. Your father and I are both free today.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Mom. I'll let you know.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, listen. Pick up some milk on your way home. We've run out since this morning. And yes, bring those biscuits you got last time too.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Mom, all you ever think about is food!",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Hahaha! Well, what else am I supposed to do? I spend all my time making things for you two!",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        },
+        {
+          "speaker": "user",
+          "text": "Alright, fine.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Okay, come home soon. Your father was asking about you too. I'll let him know that you're on your way.",
+          "source_label": "MOTHER",
+          "speaker_label_hinglish": "Mother"
+        }
+      ],
+      "caller_turn_count": 5,
+      "missing_audio_turns": []
+    },
+    "father-checking-in-hindi": {
+      "folder": "father-checking-in-hi",
+      "audio_clips": [
+        "/assets/baat-banao/father-checking-in-hi/1.mp3?v=577138d97d71",
+        "/assets/baat-banao/father-checking-in-hi/2.mp3?v=d58d31df0f58",
+        "/assets/baat-banao/father-checking-in-hi/3.mp3?v=36ca9681f153",
+        "/assets/baat-banao/father-checking-in-hi/4.mp3?v=ca16cfa506ec",
+        "/assets/baat-banao/father-checking-in-hi/5.mp3?v=533c36af58f9",
+        "/assets/baat-banao/father-checking-in-hi/6.mp3?v=172785a15f09",
+        "/assets/baat-banao/father-checking-in-hi/7.mp3?v=cf2d3c9fbd23"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "नमस्ते बेटा, हाँ बोल। कहाँ पहुँची?",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Namaste beta, haan bol. Kahaan pahunchi?"
+        },
+        {
+          "speaker": "user",
+          "text": "बस पापा, आ रही हूँ।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Bas Papa, aa rahi hoon."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा। सब ठीक है न? आज का दिन कैसा रहा?",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Achha. Sab theek hai na? Aaj ka din kaisa raha?"
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा था पापा।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Achha tha Papa."
+        },
+        {
+          "speaker": "caller",
+          "text": "चलो, बढ़िया। अच्छा सुन, मैंने तुझे कल एक काम बताया था, वह याद है न?",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Chalo, badhiya. Achha sun, maine tujhe kal ek kaam bataya tha, woh yaad hai na?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ पापा।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Haan Papa."
+        },
+        {
+          "speaker": "caller",
+          "text": "हाँ, तो घर आकर मुझे याद दिला देना। मैं भी कभी-कभी भूल जाता हूँ। हाहाहा!",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Haan, toh ghar aakar mujhe yaad dila dena. Main bhi kabhi-kabhi bhool jaata hoon. Hahaha!"
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा पापा।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Achha Papa."
+        },
+        {
+          "speaker": "caller",
+          "text": "और सुन, आज मैं जल्दी घर आ गया हूँ। तेरे लिए वह वाली चॉकलेट भी लाया हूँ, जो तुझे पसंद है।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Aur sun, aaj main jaldi ghar aa gaya hoon. Tere liye woh waali chocolate bhi laaya hoon, jo tujhe pasand hai."
+        },
+        {
+          "speaker": "user",
+          "text": "सच में?",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Sach mein?"
+        },
+        {
+          "speaker": "caller",
+          "text": "हाँ भई! अब जल्दी आ जा। तेरी mom भी तेरा इंतज़ार कर रही है।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Haan bhai! Ab jaldi aa ja. Teri mom bhi tera intezaar kar rahi hai."
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ पापा, आ रही हूँ।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Haan Papa, aa rahi hoon."
+        },
+        {
+          "speaker": "caller",
+          "text": "ठीक है बेटा। आराम से आना। मैं घर पर ही हूँ।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Theek hai beta. Aaram se aana. Main ghar par hi hoon."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "father-checking-in-english": {
+      "folder": "father-checking-in-eng",
+      "audio_clips": [
+        "/assets/baat-banao/father-checking-in-eng/1.mp3?v=4b5c0193778f",
+        "/assets/baat-banao/father-checking-in-eng/2.mp3?v=06d16883e340",
+        "/assets/baat-banao/father-checking-in-eng/3.mp3?v=4975fe4d3e47",
+        "/assets/baat-banao/father-checking-in-eng/4.mp3?v=7c9baca4aaec",
+        "/assets/baat-banao/father-checking-in-eng/5.mp3?v=9cea67fe748b",
+        "/assets/baat-banao/father-checking-in-eng/6.mp3?v=c748689040f9",
+        "/assets/baat-banao/father-checking-in-eng/7.mp3?v=511c45eed8c3"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hello, sweetheart! Yes, tell me. Where have you reached?",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "I'm on my way, Dad. I'll be there soon.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright. Is everything okay? How was your day today?",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "It was good, Dad.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "That's great! Listen, do you remember that task I told you about yesterday?",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Dad.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, remind me about it when you get home. I tend to forget things sometimes too. Hahaha!",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Okay, Dad.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "And listen, I came home early today. I also got you that chocolate you like so much.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Really?",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Of course! Now hurry up and come home. Your mother is waiting for you too.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Dad. I'm on my way.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, sweetheart. Take your time and travel safely. I'm right here at home.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "father-worried-hindi": {
+      "folder": "worried-father-hi",
+      "audio_clips": [
+        "/assets/baat-banao/worried-father-hi/1.mp3?v=69ef9bf10d3a",
+        "/assets/baat-banao/worried-father-hi/2.mp3?v=36cb368c8db2",
+        "/assets/baat-banao/worried-father-hi/3.mp3?v=58dd15ede749",
+        "/assets/baat-banao/worried-father-hi/4.mp3?v=a6e2cce4a975",
+        "/assets/baat-banao/worried-father-hi/5.mp3?v=68c7b37745eb",
+        "/assets/baat-banao/worried-father-hi/6.mp3?v=0003175b604f",
+        "/assets/baat-banao/worried-father-hi/7.mp3?v=349a2d175217"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "हाँ बेटा, मेरी आवाज़ सुनाई दे रही है?",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Haan beta, meri aawaaz sunaai de rahi hai?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ पापा।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Haan Papa."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा। मैं बस यह पता कर रहा था कि तू ठीक से पहुँच रही है न?",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Achha. Main bas yeh pata kar raha tha ki tu theek se pahunch rahi hai na?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, सब ठीक है।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Haan, sab theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा सुन, अगर तुझे देर हो रही है तो बता देना। मैं तुझे लेने आ जाऊँगा।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Achha sun, agar tujhe der ho rahi hai toh bata dena. Main tujhe lene aa jaaunga."
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं पापा, मैं आ जाऊँगी।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Nahi Papa, main aa jaaungi."
+        },
+        {
+          "speaker": "caller",
+          "text": "ठीक है। वैसे आज office में एक मज़ेदार घटना हुई। तुझे बताऊँगा तो तू बहुत हँसेगी।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Theek hai. Waise aaj office mein ek mazedaar ghatna hui. Tujhe bataaunga toh tu bahut hansegi."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, क्या हुआ?",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Achha, kya hua?"
+        },
+        {
+          "speaker": "caller",
+          "text": "अरे, वे शर्मा जी हैं न, उन्होंने आज बैठक में गलती से अपने घर की खरीदारी की सूची सबके सामने दिखा दी। उसमें आलू, प्याज़, टमाटर और साबुन तक लिखा हुआ था। पूरी बैठक में सब लोग हँसने लगे। हाहाहा!",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Arey, woh Sharma ji hain na, unhone aaj baithak mein galti se apne ghar ki kharidaari ki soochi sabke saamne dikha di. Usmein aaloo, pyaaz, tamaatar aur saabun tak likha hua tha. Poori baithak mein sab log hansne lage. Hahaha!"
+        },
+        {
+          "speaker": "user",
+          "text": "हाहाहा!",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Hahaha!"
+        },
+        {
+          "speaker": "caller",
+          "text": "हाँ! अब घर आकर पूरी कहानी सुनाऊँगा। तू बस आराम से आना।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Haan! Ab ghar aakar poori kahaani sunaaunga. Tu bas aaram se aana."
+        },
+        {
+          "speaker": "user",
+          "text": "ठीक है पापा।",
+          "source_label": "बेटी",
+          "speaker_label_hinglish": "Beti",
+          "hinglish": "Theek hai Papa."
+        },
+        {
+          "speaker": "caller",
+          "text": "और हाँ, घर पहुँचकर एक बार फ़ोन कर देना। मैं तेरा इंतज़ार कर रहा हूँ।",
+          "source_label": "पिता",
+          "speaker_label_hinglish": "Papa",
+          "hinglish": "Aur haan, ghar pahunchkar ek baar phone kar dena. Main tera intezaar kar raha hoon."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "father-worried-english": {
+      "folder": "worried-father-eng",
+      "audio_clips": [
+        "/assets/baat-banao/worried-father-eng/1.mp3?v=e94cf842166a",
+        "/assets/baat-banao/worried-father-eng/2.mp3?v=165b22ee28b5",
+        "/assets/baat-banao/worried-father-eng/3.mp3?v=8b2f17a5863f",
+        "/assets/baat-banao/worried-father-eng/4.mp3?v=5e618dd8c520",
+        "/assets/baat-banao/worried-father-eng/5.mp3?v=075abbeb0184",
+        "/assets/baat-banao/worried-father-eng/6.mp3?v=d4d4295463e1",
+        "/assets/baat-banao/worried-father-eng/7.mp3?v=66330246aaf3"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Yes, sweetheart. Can you hear me?",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, Dad.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright. I was just checking to make sure you're getting home safely.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, everything is fine.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Listen, if you're getting late, just let me know. I'll come and pick you up.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "No, Dad. I'll come on my own.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright. By the way, something really funny happened at the office today. You'll laugh so much when I tell you about it.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh really? What happened?",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "You know Mr. Sharma, right? Well, today during a meeting, he accidentally showed everyone his grocery shopping list. It had potatoes, onions, tomatoes, and even soap written on it. Everyone in the meeting burst out laughing. Hahaha!",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Hahaha!",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "Yes! I'll tell you the whole story when you get home. Just take your time and come safely.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        },
+        {
+          "speaker": "user",
+          "text": "Alright, Dad.",
+          "source_label": "DAUGHTER",
+          "speaker_label_hinglish": "Daughter"
+        },
+        {
+          "speaker": "caller",
+          "text": "And yes, give me a call once you reach home. I'll be waiting for you.",
+          "source_label": "FATHER",
+          "speaker_label_hinglish": "Father"
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "sister-checking-in-hindi": {
+      "folder": "sister-checking-in-hi",
+      "audio_clips": [
+        "/assets/baat-banao/sister-checking-in-hi/1.mp3?v=42e5ce233eb0",
+        "/assets/baat-banao/sister-checking-in-hi/2.mp3?v=ccc9ca5b56de",
+        "/assets/baat-banao/sister-checking-in-hi/3.mp3?v=6f420f7656b7",
+        "/assets/baat-banao/sister-checking-in-hi/4.mp3?v=a50d00d5f097",
+        "/assets/baat-banao/sister-checking-in-hi/5.mp3?v=f815296290e8",
+        "/assets/baat-banao/sister-checking-in-hi/6.mp3?v=9e4a9142acad",
+        "/assets/baat-banao/sister-checking-in-hi/7.mp3?v=f84462d236c2"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "अरेeeee! Hello मैडम! कहाँ है तू?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Areyeeee! Hello madam! Kahaan hai tu?"
+        },
+        {
+          "speaker": "user",
+          "text": "बस, आ रही हूँ। बता, क्या हुआ?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Bas, aa rahi hoon. Bata, kya hua?"
+        },
+        {
+          "speaker": "caller",
+          "text": "कुछ नहीं यार, बस सोचा तुझे फ़ोन कर लूँ। आजकल बहुत busy हो गई है। अपनी बहन के लिए तेरे पास समय ही नहीं है!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Kuch nahi yaar, bas socha tujhe phone kar loon. Aajkal bahut busy ho gayi hai. Apni behen ke liye tere paas samay hi nahi hai!"
+        },
+        {
+          "speaker": "user",
+          "text": "अरे, ऐसी कोई बात नहीं है!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Arey, aisi koi baat nahi hai!"
+        },
+        {
+          "speaker": "caller",
+          "text": "हाँ, हाँ, मुझे सब पता है। अच्छा छोड़, बता आज क्या हुआ? Aaj दिन कैसा रहा?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Haan, haan, mujhe sab pata hai. Achha chhod, bata aaj kya hua? Aaj din kaisa raha?"
+        },
+        {
+          "speaker": "user",
+          "text": "ठीक था।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Theek tha."
+        },
+        {
+          "speaker": "caller",
+          "text": "यार, तेरे जवाब कितने boring होते हैं! थोड़ा detail mein बता न।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Yaar, tere jawaab kitne boring hote hain! Thoda detail mein bata na."
+        },
+        {
+          "speaker": "user",
+          "text": "हाहाहा! क्या बताऊँ?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Hahaha! Kya bataaun?"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा सुन, माँ ने आज कुछ ख़ास बनाया है। मैं तो घर पहुँचकर सबसे पहले वही खाऊँगी।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha sun, Maa ne aaj kuch khaas banaya hai. Main toh ghar pahunchkar sabse pehle wahi khaaungi."
+        },
+        {
+          "speaker": "user",
+          "text": "क्या बनाया है?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Kya banaya hai?"
+        },
+        {
+          "speaker": "caller",
+          "text": "अरे, मुझे भी नहीं पता! रसोई से बहुत अच्छी ख़ुशबू आ रही थी। और हाँ, तेरे लिए भी बचाकर रखूँगी।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Arey, mujhe bhi nahi pata! Rasoi se bahut achhi khushboo aa rahi thi. Aur haan, tere liye bhi bachakar rakhoongi."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha!"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा चल, घर आकर मिलते हैं।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha chal, ghar aakar milte hain."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "sister-checking-in-english": {
+      "folder": "sister-checking-in-eng",
+      "audio_clips": [
+        "/assets/baat-banao/sister-checking-in-eng/1.mp3?v=ced1fca295e0",
+        "/assets/baat-banao/sister-checking-in-eng/2.mp3?v=70d63f2eb65b",
+        "/assets/baat-banao/sister-checking-in-eng/3.mp3?v=b0667fd66803",
+        "/assets/baat-banao/sister-checking-in-eng/4.mp3?v=e68e77940c52",
+        "/assets/baat-banao/sister-checking-in-eng/5.mp3?v=8a39b6b4f3cb",
+        "/assets/baat-banao/sister-checking-in-eng/6.mp3?v=15e0570e2e36",
+        "/assets/baat-banao/sister-checking-in-eng/7.mp3?v=d44375c3b2e9"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Heyyyyy! Hello, madam! Where are you?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "I'm on my way. Tell me, what's up?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Nothing, girl. I just thought I'd give you a call. You've become so busy lately. You don't even have time for your own sister anymore!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, it's nothing like that!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Yeah, yeah, I know everything! Anyway, forget that. Tell me, what happened today? How was your day.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "It was fine.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Girl, your answers are so boring! Tell me a little more. Give me some details!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Hahaha! What am I supposed to tell you?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Anyway, listen! Mom has made something special today. I'm going to eat it the moment I get home.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "What did she make?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Oh, I have no idea either! But the kitchen smelled absolutely amazing. And yes, I'll save some for you too.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, really!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, see you at home.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "sister-worried-hindi": {
+      "folder": "worried-sister-hi",
+      "audio_clips": [
+        "/assets/baat-banao/worried-sister-hi/1.mp3?v=28cbc1206c9a",
+        "/assets/baat-banao/worried-sister-hi/2.mp3?v=3d1490e02702",
+        "/assets/baat-banao/worried-sister-hi/3.mp3?v=1f0fd87b723a",
+        "/assets/baat-banao/worried-sister-hi/4.mp3?v=9bccce4e4088",
+        "/assets/baat-banao/worried-sister-hi/5.mp3?v=8ca3c3dc26ef",
+        "/assets/baat-banao/worried-sister-hi/6.mp3?v=95c20553f068",
+        "/assets/baat-banao/worried-sister-hi/7.mp3?v=8c832785e13c",
+        "/assets/baat-banao/worried-sister-hi/8.mp3?v=773d519015e0",
+        "/assets/baat-banao/worried-sister-hi/9.mp3?v=2639d3d4599b"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "अरे, कहाँ है तू? सब ठीक है न?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Arey, kahaan hai tu? Sab theek hai na?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, क्या हुआ?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Haan, kya hua?"
+        },
+        {
+          "speaker": "caller",
+          "text": "कुछ नहीं यार, बस हालचाल पूछ रही थी। तू कब से घर के लिए निकली हुई है। अभी तक पहुँची नहीं?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Kuch nahi yaar, bas haalchaal pooch rahi thi. Tu kab se ghar ke liye nikli hui hai. Abhi tak pahunchi nahi?"
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं, बस आ रही हूँ।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Nahi, bas aa rahi hoon."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा, और कितनी देर लगेगी? माँ भी तेरे बारे में पूछ रही थीं।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha, aur kitni der lagegi? Maa bhi tere baare mein pooch rahi thi."
+        },
+        {
+          "speaker": "user",
+          "text": "थोड़ी देर और।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Thodi der aur."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा सुन, एक काम कर। अपना फ़ोन पास रखना और मुझसे बात करती रहना।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha sun, ek kaam kar. Apna phone paas rakhna aur mujhse baat karti rehna."
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, ठीक है।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Haan, theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "वैसे आज माँ का मन बहुत अच्छा था। उन्होंने कहा है कि weekend में हम सब कहीं बाहर चलेंगे।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Waise aaj Maa ka mann bahut achha tha. Unhone kaha hai ki weekend mein hum sab kahin bahar chalenge."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, कहाँ?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha, kahaan?"
+        },
+        {
+          "speaker": "caller",
+          "text": "अभी तय नहीं हुआ है। मैं सोच रही थी कि फ़िल्म देखने चलें या रात का खाना खाने बाहर जाएँ। तू बता, क्या बेहतर रहेगा?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Abhi tay nahi hua hai. Main soch rahi thi ki film dekhne chalein ya raat ka khana khane bahar jaayein. Tu bata, kya behtar rahega?"
+        },
+        {
+          "speaker": "user",
+          "text": "फ़िल्म!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Film!"
+        },
+        {
+          "speaker": "caller",
+          "text": "मुझे पता था कि तू फ़िल्म देखने के लिए ही कहेगी! हाहाहा! अच्छा, फिर फ़िल्म देखना ही तय रहा।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Mujhe pata tha ki tu film dekhne ke liye hi kahegi! Hahaha! Achha, phir film dekhna hi tay raha."
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Haan!"
+        },
+        {
+          "speaker": "caller",
+          "text": "और सुन, अगर तुझे कहीं रुकना पड़े या देर हो जाए तो मुझे बता देना। मैं free हूँ, ठीक है?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Aur sun, agar tujhe kahin rukna pade ya der ho jaaye toh mujhe bata dena. Main free hoon, theek hai?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, बता दूँगी।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Haan, bata doongi."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, ठीक है।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha, theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "चल तू आराम से आ। जल्दी मिलते हैं!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Chal tu aaram se aa. Jaldi milte hain!"
+        }
+      ],
+      "caller_turn_count": 9,
+      "missing_audio_turns": []
+    },
+    "sister-worried-english": {
+      "folder": "worried-sister-eng",
+      "audio_clips": [
+        "/assets/baat-banao/worried-sister-eng/1.mp3?v=77e6458ece2f",
+        "/assets/baat-banao/worried-sister-eng/2.mp3?v=0b82a4a90cd7",
+        "/assets/baat-banao/worried-sister-eng/3.mp3?v=f9bd275650b3",
+        "/assets/baat-banao/worried-sister-eng/4.mp3?v=29cdc0efc4a5",
+        "/assets/baat-banao/worried-sister-eng/5.mp3?v=1e2e4fbeb6ec",
+        "/assets/baat-banao/worried-sister-eng/6.mp3?v=6960213ef489",
+        "/assets/baat-banao/worried-sister-eng/7.mp3?v=2938ca3ae788",
+        "/assets/baat-banao/worried-sister-eng/8.mp3?v=a157081dd281",
+        "/assets/baat-banao/worried-sister-eng/9.mp3?v=516c47277c19",
+        "/assets/baat-banao/worried-sister-eng/10.mp3?v=c8103258d78a"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hello! Hey, where are you? Is everything alright?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, what happened?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Nothing, girl. I was just checking on you. You've been on your way home for quite some time now. Haven't you reached yet?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "No, I'm on my way. I'll be there soon.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, how much longer will you take? Mom was asking about you too.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Just a little longer.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Okay, listen. Keep your phone with you and stay on the call with me.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, alright.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "By the way, Mom was in a really good mood today. She said that all of us should go somewhere together this weekend.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, really? Where?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "We haven't decided yet. I was thinking we could either go watch a movie or go out for dinner. You tell me, which would be better?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "A movie!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "I knew you'd choose a movie! Hahaha! Alright, a movie it is, then.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "And listen, if you have to stop somewhere or get delayed, just let me know. I'm available, okay?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, I'll let you know.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Good! And yes, come to my room once you get home. I also have something important to discuss with you.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, alright.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Okay, I'm still here on the phone. Take your time and come safely. See you soon!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        }
+      ],
+      "caller_turn_count": 10,
+      "missing_audio_turns": []
+    },
+    "brother-checking-in-hindi": {
+      "folder": "brother-checking-in-hi",
+      "audio_clips": [
+        "/assets/baat-banao/brother-checking-in-hi/1.mp3?v=ccab3f16347a",
+        "/assets/baat-banao/brother-checking-in-hi/2.mp3?v=88b7800009d8",
+        "/assets/baat-banao/brother-checking-in-hi/3.mp3?v=05258c79149c",
+        "/assets/baat-banao/brother-checking-in-hi/4.mp3?v=fa9f5b1c9cbd",
+        "/assets/baat-banao/brother-checking-in-hi/5.mp3?v=d747ac0683f9",
+        "/assets/baat-banao/brother-checking-in-hi/6.mp3?v=8cef383eb603",
+        "/assets/baat-banao/brother-checking-in-hi/7.mp3?v=0ec78f715b7b"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "अरे! क्या हाल है? कहाँ है तू?",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Arey! Kya haal hai? Kahaan hai tu?"
+        },
+        {
+          "speaker": "user",
+          "text": "बस, आ रही हूँ।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Bas, aa rahi hoon."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा सुन, माँ ने मुझे तुझे फ़ोन करके पूछने को कहा था। तू कब तक आ रही है?",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Achha sun, Maa ne mujhe tujhe phone karke poochhne ko kaha tha. Tu kab tak aa rahi hai?"
+        },
+        {
+          "speaker": "user",
+          "text": "थोड़ी देर में।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Thodi der mein."
+        },
+        {
+          "speaker": "caller",
+          "text": "ठीक है। वैसे एक बात बता, मेरा charger तूने लिया था क्या?",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Theek hai. Waise ek baat bata, mera charger tune liya tha kya?"
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं तो!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Nahi toh!"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा? तो फिर मेरे कमरे में तेरा charger कैसे पड़ा है? हाहाहा!",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Achha? Toh phir mere kamre mein tera charger kaise pada hai? Hahaha!"
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, वह मेरा ही है!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha, woh mera hi hai!"
+        },
+        {
+          "speaker": "caller",
+          "text": "हाँ, हाँ! सब कुछ तेरा ही है। इस घर में तो मेरी कोई चीज़ है ही नहीं।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Haan, haan! Sab kuch tera hi hai. Is ghar mein toh meri koi cheez hai hi nahi."
+        },
+        {
+          "speaker": "user",
+          "text": "नाटक मत कर।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Naatak mat kar."
+        },
+        {
+          "speaker": "caller",
+          "text": "हाहाहा! अच्छा सुन, घर आकर मेरे साथ एक game खेलेंगे। बहुत दिन हो गए साथ में खेले हुए।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Hahaha! Achha sun, ghar aakar mere saath ek game khelenge. Bahut din ho gaye saath mein khele hue."
+        },
+        {
+          "speaker": "user",
+          "text": "देखते हैं।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Dekhte hain."
+        },
+        {
+          "speaker": "caller",
+          "text": "देखते नहीं, खेलेंगे। चल, जल्दी आ। मैं घर पर ही हूँ।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Dekhte nahi, khelenge. Chal, jaldi aa. Main ghar par hi hoon."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "brother-checking-in-english": {
+      "folder": "brother-checking-in-eng",
+      "audio_clips": [
+        "/assets/baat-banao/brother-checking-in-eng/1.mp3?v=e24dfa34af9b",
+        "/assets/baat-banao/brother-checking-in-eng/2.mp3?v=714d4a26a380",
+        "/assets/baat-banao/brother-checking-in-eng/3.mp3?v=7b85b63dd0dc",
+        "/assets/baat-banao/brother-checking-in-eng/4.mp3?v=b8646ff7f125",
+        "/assets/baat-banao/brother-checking-in-eng/5.mp3?v=9dd62cf292c6",
+        "/assets/baat-banao/brother-checking-in-eng/6.mp3?v=499b53985821",
+        "/assets/baat-banao/brother-checking-in-eng/7.mp3?v=82862117c842"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hey! How's it going? Where are you?",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "I'm on my way.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, listen. Mom asked me to call and check when you'd be coming home. How much longer will you take?",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "I'll be there in a little while.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Okay. By the way, tell me something. Did you take my charger?",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "No, I didn't!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Oh, really? Then why is your charger lying in my room? Hahaha!",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, that's mine!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Yeah, yeah! Everything in this house belongs to you. Apparently, I don't own a single thing here.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Stop being so dramatic.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Hahaha! Anyway, listen. When you get home, let's play a game together. It's been so long since we last played.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "We'll see.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "No, not \"we'll see.\" We're definitely playing! Come home soon. I'm right here.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "brother-worried-hindi": {
+      "folder": "worried-brother-hi",
+      "audio_clips": [
+        "/assets/baat-banao/worried-brother-hi/1.mp3?v=013d3d35bf52",
+        "/assets/baat-banao/worried-brother-hi/2.mp3?v=626024f82bfa",
+        "/assets/baat-banao/worried-brother-hi/3.mp3?v=a6b7e329591a",
+        "/assets/baat-banao/worried-brother-hi/4.mp3?v=716626cda813",
+        "/assets/baat-banao/worried-brother-hi/5.mp3?v=67aaf20edc0b",
+        "/assets/baat-banao/worried-brother-hi/6.mp3?v=c4af6693719d",
+        "/assets/baat-banao/worried-brother-hi/7.mp3?v=d74d6e46094e"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "हाँ, बता, सब ठीक है?",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Haan, bata, sab theek hai?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, सब बढ़िया है।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Haan, sab badhiya hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा। वैसे आज तू इतनी जल्दी में क्यों थी? सुबह भी भागती हुई निकली थी।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Achha. Waise aaj tu itni jaldi mein kyon thi? Subah bhi bhaagti hui nikli thi."
+        },
+        {
+          "speaker": "user",
+          "text": "बस, कुछ काम था।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Bas, kuch kaam tha."
+        },
+        {
+          "speaker": "caller",
+          "text": "हाँ, समझ गया। अच्छा सुन, weekend में खाली है क्या?",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Haan, samajh gaya. Achha sun, weekend mein khaali hai kya?"
+        },
+        {
+          "speaker": "user",
+          "text": "क्यों?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Kyon?"
+        },
+        {
+          "speaker": "caller",
+          "text": "फ़िल्म देखने चलते हैं। एक नई फ़िल्म आई है। तुझे भी पसंद आएगी।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Film dekhne chalte hain. Ek nayi film aayi hai. Tujhe bhi pasand aayegi."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा, कौन-सी?",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Achha, kaun-si?"
+        },
+        {
+          "speaker": "caller",
+          "text": "अरे, नाम तो याद नहीं आ रहा। घर आकर दिखा दूँगा।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Arey, naam toh yaad nahi aa raha. Ghar aakar dikha doonga."
+        },
+        {
+          "speaker": "user",
+          "text": "हाहाहा, तुम भी न!",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Hahaha, tum bhi na!"
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा, एक काम कर, माँ को बता देना कि मैं भी तेरे साथ फ़िल्म देखने जाने ka plan बना रहा हूँ।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Achha, ek kaam kar, Maa ko bata dena ki main bhi tere saath film dekhne jaane ka plan bana raha hoon."
+        },
+        {
+          "speaker": "user",
+          "text": "ठीक है।",
+          "source_label": "बहन",
+          "speaker_label_hinglish": "Behen",
+          "hinglish": "Theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "चल, तू आराम से आ। मैं भी घर पर ही हूँ। मिलते हैं।",
+          "source_label": "भाई",
+          "speaker_label_hinglish": "Bhai",
+          "hinglish": "Chal, tu aaram se aa. Main bhi ghar par hi hoon. Milte hain."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "brother-worried-english": {
+      "folder": "worried-brother-eng",
+      "audio_clips": [
+        "/assets/baat-banao/worried-brother-eng/1.mp3?v=876768bedfad",
+        "/assets/baat-banao/worried-brother-eng/2.mp3?v=71d20721a3bc",
+        "/assets/baat-banao/worried-brother-eng/3.mp3?v=84ec0a4102c9",
+        "/assets/baat-banao/worried-brother-eng/4.mp3?v=13e3ce23cb15",
+        "/assets/baat-banao/worried-brother-eng/5.mp3?v=f362b75acd95",
+        "/assets/baat-banao/worried-brother-eng/6.mp3?v=240f9fba2dad",
+        "/assets/baat-banao/worried-brother-eng/7.mp3?v=9cd56b81c208"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hey, tell me, is everything alright?",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, everything's great.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright. By the way, why were you in such a hurry today? You were rushing out this morning too.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "I just had some work to do.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Yeah, I figured. Anyway, listen, are you free this weekend?",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Why?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Let's go watch a movie! There's a new one out, and I think you'll like it too.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Oh, really? Which one?",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Well, I can't remember the name right now. I'll show you when you get home.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Hahaha, you're something else!",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, do one thing. Let Mom know that I'm planning to go watch a movie with you too.",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        },
+        {
+          "speaker": "user",
+          "text": "Okay.",
+          "source_label": "SISTER",
+          "speaker_label_hinglish": "Sister"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, take your time getting home. I'm home too. See you soon!",
+          "source_label": "BROTHER",
+          "speaker_label_hinglish": "Brother"
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "boyfriend-checking-in-hindi": {
+      "folder": "boyfriend-checking-in-hi",
+      "audio_clips": [
+        "/assets/baat-banao/boyfriend-checking-in-hi/1.mp3?v=77e3128a1739",
+        "/assets/baat-banao/boyfriend-checking-in-hi/2.mp3?v=e45be969d27d",
+        "/assets/baat-banao/boyfriend-checking-in-hi/3.mp3?v=09ddaf116328",
+        "/assets/baat-banao/boyfriend-checking-in-hi/4.mp3?v=b81ee902736a",
+        "/assets/baat-banao/boyfriend-checking-in-hi/5.mp3?v=57fe0003b99b",
+        "/assets/baat-banao/boyfriend-checking-in-hi/6.mp3?v=efd3e4cb6d89",
+        "/assets/baat-banao/boyfriend-checking-in-hi/7.mp3?v=37d432808a32"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "जान! क्या कर रही हो? कहाँ पहुँच गई तुम?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Jaan! Kya kar rahi ho? Kahaan pahunch gayi tum?"
+        },
+        {
+          "speaker": "user",
+          "text": "बस, आ रही हूँ।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Bas, aa rahi hoon."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा जी! मैं कब से तुम्हारे फ़ोन का इंतज़ार कर रहा था। आज का दिन कैसा रहा?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Achha ji! Main kab se tumhare phone ka intezaar kar raha tha. Aaj ka din kaisa raha?"
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा था।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Achha tha."
+        },
+        {
+          "speaker": "caller",
+          "text": "बस अच्छा था? और कुछ mazedaar नहीं हुआ? मेरे बिना तो तुम्हारा दिन boring ही रहा होगा!",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Bas achha tha? Aur kuch mazedaar nahi hua? Mere bina toh tumhara din boring hi raha hoga!"
+        },
+        {
+          "speaker": "user",
+          "text": "हाहाहा! ऐसी कोई बात नहीं है।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Hahaha! Aisi koi baat nahi hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा, अच्छा, समझ गया। वैसे, खाना खाया तुमने?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Achha, achha, samajh gaya. Waise, khana khaya tumne?"
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं, अभी नहीं।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Nahi, abhi nahi."
+        },
+        {
+          "speaker": "caller",
+          "text": "अरे यार, फिर से! कितनी बार कहा है कि समय पर खाना खाया करो। घर पहुँचकर अच्छी तरह से कुछ खा लेना, ठीक है?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Arey yaar, phir se! Kitni baar kaha hai ki samay par khana khaya karo. Ghar pahunchkar achhi tarah se kuch kha lena, theek hai?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ बाबा।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Haan baba."
+        },
+        {
+          "speaker": "caller",
+          "text": "और हाँ, घर पहुँचकर मुझे संदेश कर देना। मैं भी थोड़ी देर में खाली हो जाऊँगा। फिर आराम से बातें करेंगे।",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Aur haan, ghar pahunchkar mujhe sandesh kar dena. Main bhi thodi der mein khaali ho jaaunga. Phir aaram se baatein karenge."
+        },
+        {
+          "speaker": "user",
+          "text": "ठीक है।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "चलो जान, अपना ध्यान रखना।",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Chalo jaan, apna dhyaan rakhna."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "boyfriend-checking-in-english": {
+      "folder": "boyfriend-checking-in-eng",
+      "audio_clips": [
+        "/assets/baat-banao/boyfriend-checking-in-eng/1.mp3?v=108b82b3b894",
+        "/assets/baat-banao/boyfriend-checking-in-eng/2.mp3?v=e72750af2d4e",
+        "/assets/baat-banao/boyfriend-checking-in-eng/3.mp3?v=9a8034c4a861",
+        "/assets/baat-banao/boyfriend-checking-in-eng/4.mp3?v=05e28144a0a9",
+        "/assets/baat-banao/boyfriend-checking-in-eng/5.mp3?v=3b4b9e514f47",
+        "/assets/baat-banao/boyfriend-checking-in-eng/6.mp3?v=3942a6fd344e",
+        "/assets/baat-banao/boyfriend-checking-in-eng/7.mp3?v=9bf134aaf9ad",
+        "/assets/baat-banao/boyfriend-checking-in-eng/8.mp3?v=506e06f76471",
+        "/assets/baat-banao/boyfriend-checking-in-eng/9.mp3?v=8b05f9968680"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hello, sweetheart! What are you doing? Where have you reached?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "I'm on my way.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Oh, really! I've been waiting for your call for so long. How was your day today?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "It was good.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Just good? Nothing else interesting happened? I'm sure your day must have been boring without me!",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Hahaha! It's nothing like that.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, alright. I get it. By the way, have you eaten anything?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "No, not yet.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Oh, come on! Again? How many times have I told you to eat on time? Make sure you have a proper meal once you get home, okay?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Alright, alright!",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Listen, what are your plans for the weekend? Shall we go somewhere? It's been so long since we've spent some quality time together.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, we'll see.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Oh, come on! What's there to think about? We're definitely going! I'll decide the place; you just let me know what time works for you.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Alright.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "And yes, send me a message once you get home. I'll be free in a little while too. Then we can talk properly.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Okay.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, sweetheart. Take care of yourself. I'm right here on the phone. Let's keep talking!",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        }
+      ],
+      "caller_turn_count": 9,
+      "missing_audio_turns": []
+    },
+    "boyfriend-worried-hindi": {
+      "folder": "worried-boyfriend-hi",
+      "audio_clips": [
+        "/assets/baat-banao/worried-boyfriend-hi/1.mp3?v=e486aeaf6e41",
+        "/assets/baat-banao/worried-boyfriend-hi/2.mp3?v=41b3a50b8513",
+        "/assets/baat-banao/worried-boyfriend-hi/3.mp3?v=3ae0a22cb767",
+        "/assets/baat-banao/worried-boyfriend-hi/4.mp3?v=dd5e07fd8b7c",
+        "/assets/baat-banao/worried-boyfriend-hi/5.mp3?v=6d9b7ae8c456",
+        "/assets/baat-banao/worried-boyfriend-hi/6.mp3?v=3c245679df95",
+        "/assets/baat-banao/worried-boyfriend-hi/7.mp3?v=2d989c039bcb"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "hey जान, कहाँ हो तुम? मैं कब से तुम्हें फ़ोन करने की सोच रहा था।",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Hey jaan, kahaan ho tum? Main kab se tumhe phone karne ki soch raha tha."
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, बोलो, क्या हुआ?",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Haan, bolo, kya hua?"
+        },
+        {
+          "speaker": "caller",
+          "text": "कुछ नहीं, बस तुम्हारा फ़ोन नहीं लग रहा था, इसलिए थोड़ी चिंता हो गई। सब ठीक है न?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Kuch nahi, bas tumhara phone nahi lag raha tha, isliye thodi chinta ho gayi. Sab theek hai na?"
+        },
+        {
+          "speaker": "user",
+          "text": "हाँ, सब ठीक है।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Haan, sab theek hai."
+        },
+        {
+          "speaker": "caller",
+          "text": "पक्का? तुम्हारी आवाज़ कुछ अलग लग रही है। कोई परेशानी है क्या?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Pakka? Tumhari aawaaz kuch alag lag rahi hai. Koi pareshaani hai kya?"
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं, कुछ नहीं।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Nahi, kuch nahi."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा, ठीक है। सुनो, अभी कहाँ हो तुम? घर पहुँचने में कितना समय लगेगा?",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Achha, theek hai. Suno, abhi kahaan ho tum? Ghar pahunchne mein kitna samay lagega?"
+        },
+        {
+          "speaker": "user",
+          "text": "बस थोड़ी देर और।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Bas thodi der aur."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा। देखो, अगर देर हो रही है तो बता देना। मैं तुम्हें लेने आ सकता हूँ। वैसे भी मुझे तुमसे मिलना था।",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Achha. Dekho, agar der ho rahi hai toh bata dena. Main tumhe lene aa sakta hoon. Waise bhi mujhe tumse milna tha."
+        },
+        {
+          "speaker": "user",
+          "text": "नहीं, मैं आ जाऊँगी।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Nahi, main aa jaaungi."
+        },
+        {
+          "speaker": "caller",
+          "text": "ठीक है, लेकिन अपना ध्यान रखना। और please अपना फ़ोन बंद मत करना।",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Theek hai, lekin apna dhyaan rakhna. Aur please apna phone band mat karna."
+        },
+        {
+          "speaker": "user",
+          "text": "अच्छा बाबा।",
+          "source_label": "प्रेमिका",
+          "speaker_label_hinglish": "Premika",
+          "hinglish": "Achha baba."
+        },
+        {
+          "speaker": "caller",
+          "text": "अच्छा जान। तुम आराम से आना।",
+          "source_label": "प्रेमी",
+          "speaker_label_hinglish": "Premi",
+          "hinglish": "Achha jaan. Tum aaram se aana."
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    },
+    "boyfriend-worried-english": {
+      "folder": "worried-boyfriend-eng",
+      "audio_clips": [
+        "/assets/baat-banao/worried-boyfriend-eng/1.mp3?v=c6c0e17bde02",
+        "/assets/baat-banao/worried-boyfriend-eng/2.mp3?v=54caefc3ede7",
+        "/assets/baat-banao/worried-boyfriend-eng/3.mp3?v=8f89f23a4481",
+        "/assets/baat-banao/worried-boyfriend-eng/4.mp3?v=3b3a7911ea96",
+        "/assets/baat-banao/worried-boyfriend-eng/5.mp3?v=ca078f65bc49",
+        "/assets/baat-banao/worried-boyfriend-eng/6.mp3?v=1264059706a0",
+        "/assets/baat-banao/worried-boyfriend-eng/7.mp3?v=735b75076317"
+      ],
+      "loop_audio": null,
+      "transcript_pending": false,
+      "dialogue": [
+        {
+          "speaker": "caller",
+          "text": "Hello! Sweetheart, where are you? I've been trying to call you for a while.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, tell me. What's wrong?",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Nothing, I just couldn't get through to you, so I started getting a little worried. Is everything alright?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, everything is fine.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Are you sure? Your voice sounds a little different. Is something bothering you?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "No, nothing.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright, okay. Listen, where are you right now? How long will it take you to get home?",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Just a little while longer.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Alright. Listen, if you're getting late, just let me know. I can come and pick you up. Besides, I wanted to see you anyway.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "No, I'll get home on my own.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Okay, but please take care of yourself. And please don't put your phone on silent.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "alright alright!",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        },
+        {
+          "speaker": "caller",
+          "text": "Take your time and get home safely. And send me a message once you reach. I'll be waiting.",
+          "source_label": "BOYFRIEND",
+          "speaker_label_hinglish": "Boyfriend"
+        },
+        {
+          "speaker": "user",
+          "text": "Yes, I will.",
+          "source_label": "GIRLFRIEND",
+          "speaker_label_hinglish": "Girlfriend"
+        }
+      ],
+      "caller_turn_count": 7,
+      "missing_audio_turns": []
+    }
+  },
+  "assets": [
+    "/assets/baat-banao/mom-checking-in-hi/01.mp3?v=21353b89b082",
+    "/assets/baat-banao/mom-checking-in-hi/02.mp3?v=24e7d19e23f1",
+    "/assets/baat-banao/mom-checking-in-hi/03.mp3?v=28c6dfba4272",
+    "/assets/baat-banao/mom-checking-in-hi/04.mp3?v=c489d8e02d9a",
+    "/assets/baat-banao/mom-checking-in-hi/05.mp3?v=27685b7bc974",
+    "/assets/baat-banao/mom-checking-in-hi/06.mp3?v=73fdeef819dc",
+    "/assets/baat-banao/mom-checking-in-eng/1.mp3?v=c2ed50dbc896",
+    "/assets/baat-banao/mom-checking-in-eng/2.mp3?v=de756be6891a",
+    "/assets/baat-banao/mom-checking-in-eng/3.mp3?v=cc6c68c80ff3",
+    "/assets/baat-banao/mom-checking-in-eng/4.mp3?v=dc1000edca89",
+    "/assets/baat-banao/mom-checking-in-eng/5.mp3?v=538f10d9d409",
+    "/assets/baat-banao/mom-checking-in-eng/6.mp3?v=39529b50f6a7",
+    "/assets/baat-banao/worried-mom-hi/1.mp3?v=a1e36ee873d6",
+    "/assets/baat-banao/worried-mom-hi/2.mp3?v=975d6695c9cc",
+    "/assets/baat-banao/worried-mom-hi/3.mp3?v=22d5ab5b4109",
+    "/assets/baat-banao/worried-mom-hi/4.mp3?v=80d2b14611db",
+    "/assets/baat-banao/worried-mom-hi/5.mp3?v=e4b8d7e4e701",
+    "/assets/baat-banao/worried-mom-eng/1.mp3?v=70854280ff54",
+    "/assets/baat-banao/worried-mom-eng/2.mp3?v=6a13402fea82",
+    "/assets/baat-banao/worried-mom-eng/3.mp3?v=8c3942bb5273",
+    "/assets/baat-banao/worried-mom-eng/4.mp3?v=a351551ffc4b",
+    "/assets/baat-banao/worried-mom-eng/5.mp3?v=278ed93f6640",
+    "/assets/baat-banao/father-checking-in-hi/1.mp3?v=577138d97d71",
+    "/assets/baat-banao/father-checking-in-hi/2.mp3?v=d58d31df0f58",
+    "/assets/baat-banao/father-checking-in-hi/3.mp3?v=36ca9681f153",
+    "/assets/baat-banao/father-checking-in-hi/4.mp3?v=ca16cfa506ec",
+    "/assets/baat-banao/father-checking-in-hi/5.mp3?v=533c36af58f9",
+    "/assets/baat-banao/father-checking-in-hi/6.mp3?v=172785a15f09",
+    "/assets/baat-banao/father-checking-in-hi/7.mp3?v=cf2d3c9fbd23",
+    "/assets/baat-banao/father-checking-in-eng/1.mp3?v=4b5c0193778f",
+    "/assets/baat-banao/father-checking-in-eng/2.mp3?v=06d16883e340",
+    "/assets/baat-banao/father-checking-in-eng/3.mp3?v=4975fe4d3e47",
+    "/assets/baat-banao/father-checking-in-eng/4.mp3?v=7c9baca4aaec",
+    "/assets/baat-banao/father-checking-in-eng/5.mp3?v=9cea67fe748b",
+    "/assets/baat-banao/father-checking-in-eng/6.mp3?v=c748689040f9",
+    "/assets/baat-banao/father-checking-in-eng/7.mp3?v=511c45eed8c3",
+    "/assets/baat-banao/worried-father-hi/1.mp3?v=69ef9bf10d3a",
+    "/assets/baat-banao/worried-father-hi/2.mp3?v=36cb368c8db2",
+    "/assets/baat-banao/worried-father-hi/3.mp3?v=58dd15ede749",
+    "/assets/baat-banao/worried-father-hi/4.mp3?v=a6e2cce4a975",
+    "/assets/baat-banao/worried-father-hi/5.mp3?v=68c7b37745eb",
+    "/assets/baat-banao/worried-father-hi/6.mp3?v=0003175b604f",
+    "/assets/baat-banao/worried-father-hi/7.mp3?v=349a2d175217",
+    "/assets/baat-banao/worried-father-eng/1.mp3?v=e94cf842166a",
+    "/assets/baat-banao/worried-father-eng/2.mp3?v=165b22ee28b5",
+    "/assets/baat-banao/worried-father-eng/3.mp3?v=8b2f17a5863f",
+    "/assets/baat-banao/worried-father-eng/4.mp3?v=5e618dd8c520",
+    "/assets/baat-banao/worried-father-eng/5.mp3?v=075abbeb0184",
+    "/assets/baat-banao/worried-father-eng/6.mp3?v=d4d4295463e1",
+    "/assets/baat-banao/worried-father-eng/7.mp3?v=66330246aaf3",
+    "/assets/baat-banao/sister-checking-in-hi/1.mp3?v=42e5ce233eb0",
+    "/assets/baat-banao/sister-checking-in-hi/2.mp3?v=ccc9ca5b56de",
+    "/assets/baat-banao/sister-checking-in-hi/3.mp3?v=6f420f7656b7",
+    "/assets/baat-banao/sister-checking-in-hi/4.mp3?v=a50d00d5f097",
+    "/assets/baat-banao/sister-checking-in-hi/5.mp3?v=f815296290e8",
+    "/assets/baat-banao/sister-checking-in-hi/6.mp3?v=9e4a9142acad",
+    "/assets/baat-banao/sister-checking-in-hi/7.mp3?v=f84462d236c2",
+    "/assets/baat-banao/sister-checking-in-eng/1.mp3?v=ced1fca295e0",
+    "/assets/baat-banao/sister-checking-in-eng/2.mp3?v=70d63f2eb65b",
+    "/assets/baat-banao/sister-checking-in-eng/3.mp3?v=b0667fd66803",
+    "/assets/baat-banao/sister-checking-in-eng/4.mp3?v=e68e77940c52",
+    "/assets/baat-banao/sister-checking-in-eng/5.mp3?v=8a39b6b4f3cb",
+    "/assets/baat-banao/sister-checking-in-eng/6.mp3?v=15e0570e2e36",
+    "/assets/baat-banao/sister-checking-in-eng/7.mp3?v=d44375c3b2e9",
+    "/assets/baat-banao/worried-sister-hi/1.mp3?v=28cbc1206c9a",
+    "/assets/baat-banao/worried-sister-hi/2.mp3?v=3d1490e02702",
+    "/assets/baat-banao/worried-sister-hi/3.mp3?v=1f0fd87b723a",
+    "/assets/baat-banao/worried-sister-hi/4.mp3?v=9bccce4e4088",
+    "/assets/baat-banao/worried-sister-hi/5.mp3?v=8ca3c3dc26ef",
+    "/assets/baat-banao/worried-sister-hi/6.mp3?v=95c20553f068",
+    "/assets/baat-banao/worried-sister-hi/7.mp3?v=8c832785e13c",
+    "/assets/baat-banao/worried-sister-hi/8.mp3?v=773d519015e0",
+    "/assets/baat-banao/worried-sister-hi/9.mp3?v=2639d3d4599b",
+    "/assets/baat-banao/worried-sister-eng/1.mp3?v=77e6458ece2f",
+    "/assets/baat-banao/worried-sister-eng/2.mp3?v=0b82a4a90cd7",
+    "/assets/baat-banao/worried-sister-eng/3.mp3?v=f9bd275650b3",
+    "/assets/baat-banao/worried-sister-eng/4.mp3?v=29cdc0efc4a5",
+    "/assets/baat-banao/worried-sister-eng/5.mp3?v=1e2e4fbeb6ec",
+    "/assets/baat-banao/worried-sister-eng/6.mp3?v=6960213ef489",
+    "/assets/baat-banao/worried-sister-eng/7.mp3?v=2938ca3ae788",
+    "/assets/baat-banao/worried-sister-eng/8.mp3?v=a157081dd281",
+    "/assets/baat-banao/worried-sister-eng/9.mp3?v=516c47277c19",
+    "/assets/baat-banao/worried-sister-eng/10.mp3?v=c8103258d78a",
+    "/assets/baat-banao/brother-checking-in-hi/1.mp3?v=ccab3f16347a",
+    "/assets/baat-banao/brother-checking-in-hi/2.mp3?v=88b7800009d8",
+    "/assets/baat-banao/brother-checking-in-hi/3.mp3?v=05258c79149c",
+    "/assets/baat-banao/brother-checking-in-hi/4.mp3?v=fa9f5b1c9cbd",
+    "/assets/baat-banao/brother-checking-in-hi/5.mp3?v=d747ac0683f9",
+    "/assets/baat-banao/brother-checking-in-hi/6.mp3?v=8cef383eb603",
+    "/assets/baat-banao/brother-checking-in-hi/7.mp3?v=0ec78f715b7b",
+    "/assets/baat-banao/brother-checking-in-eng/1.mp3?v=e24dfa34af9b",
+    "/assets/baat-banao/brother-checking-in-eng/2.mp3?v=714d4a26a380",
+    "/assets/baat-banao/brother-checking-in-eng/3.mp3?v=7b85b63dd0dc",
+    "/assets/baat-banao/brother-checking-in-eng/4.mp3?v=b8646ff7f125",
+    "/assets/baat-banao/brother-checking-in-eng/5.mp3?v=9dd62cf292c6",
+    "/assets/baat-banao/brother-checking-in-eng/6.mp3?v=499b53985821",
+    "/assets/baat-banao/brother-checking-in-eng/7.mp3?v=82862117c842",
+    "/assets/baat-banao/worried-brother-hi/1.mp3?v=013d3d35bf52",
+    "/assets/baat-banao/worried-brother-hi/2.mp3?v=626024f82bfa",
+    "/assets/baat-banao/worried-brother-hi/3.mp3?v=a6b7e329591a",
+    "/assets/baat-banao/worried-brother-hi/4.mp3?v=716626cda813",
+    "/assets/baat-banao/worried-brother-hi/5.mp3?v=67aaf20edc0b",
+    "/assets/baat-banao/worried-brother-hi/6.mp3?v=c4af6693719d",
+    "/assets/baat-banao/worried-brother-hi/7.mp3?v=d74d6e46094e",
+    "/assets/baat-banao/worried-brother-eng/1.mp3?v=876768bedfad",
+    "/assets/baat-banao/worried-brother-eng/2.mp3?v=71d20721a3bc",
+    "/assets/baat-banao/worried-brother-eng/3.mp3?v=84ec0a4102c9",
+    "/assets/baat-banao/worried-brother-eng/4.mp3?v=13e3ce23cb15",
+    "/assets/baat-banao/worried-brother-eng/5.mp3?v=f362b75acd95",
+    "/assets/baat-banao/worried-brother-eng/6.mp3?v=240f9fba2dad",
+    "/assets/baat-banao/worried-brother-eng/7.mp3?v=9cd56b81c208",
+    "/assets/baat-banao/boyfriend-checking-in-hi/1.mp3?v=77e3128a1739",
+    "/assets/baat-banao/boyfriend-checking-in-hi/2.mp3?v=e45be969d27d",
+    "/assets/baat-banao/boyfriend-checking-in-hi/3.mp3?v=09ddaf116328",
+    "/assets/baat-banao/boyfriend-checking-in-hi/4.mp3?v=b81ee902736a",
+    "/assets/baat-banao/boyfriend-checking-in-hi/5.mp3?v=57fe0003b99b",
+    "/assets/baat-banao/boyfriend-checking-in-hi/6.mp3?v=efd3e4cb6d89",
+    "/assets/baat-banao/boyfriend-checking-in-hi/7.mp3?v=37d432808a32",
+    "/assets/baat-banao/boyfriend-checking-in-eng/1.mp3?v=108b82b3b894",
+    "/assets/baat-banao/boyfriend-checking-in-eng/2.mp3?v=e72750af2d4e",
+    "/assets/baat-banao/boyfriend-checking-in-eng/3.mp3?v=9a8034c4a861",
+    "/assets/baat-banao/boyfriend-checking-in-eng/4.mp3?v=05e28144a0a9",
+    "/assets/baat-banao/boyfriend-checking-in-eng/5.mp3?v=3b4b9e514f47",
+    "/assets/baat-banao/boyfriend-checking-in-eng/6.mp3?v=3942a6fd344e",
+    "/assets/baat-banao/boyfriend-checking-in-eng/7.mp3?v=9bf134aaf9ad",
+    "/assets/baat-banao/boyfriend-checking-in-eng/8.mp3?v=506e06f76471",
+    "/assets/baat-banao/boyfriend-checking-in-eng/9.mp3?v=8b05f9968680",
+    "/assets/baat-banao/worried-boyfriend-hi/1.mp3?v=e486aeaf6e41",
+    "/assets/baat-banao/worried-boyfriend-hi/2.mp3?v=41b3a50b8513",
+    "/assets/baat-banao/worried-boyfriend-hi/3.mp3?v=3ae0a22cb767",
+    "/assets/baat-banao/worried-boyfriend-hi/4.mp3?v=dd5e07fd8b7c",
+    "/assets/baat-banao/worried-boyfriend-hi/5.mp3?v=6d9b7ae8c456",
+    "/assets/baat-banao/worried-boyfriend-hi/6.mp3?v=3c245679df95",
+    "/assets/baat-banao/worried-boyfriend-hi/7.mp3?v=2d989c039bcb",
+    "/assets/baat-banao/worried-boyfriend-eng/1.mp3?v=c6c0e17bde02",
+    "/assets/baat-banao/worried-boyfriend-eng/2.mp3?v=54caefc3ede7",
+    "/assets/baat-banao/worried-boyfriend-eng/3.mp3?v=8f89f23a4481",
+    "/assets/baat-banao/worried-boyfriend-eng/4.mp3?v=3b3a7911ea96",
+    "/assets/baat-banao/worried-boyfriend-eng/5.mp3?v=ca078f65bc49",
+    "/assets/baat-banao/worried-boyfriend-eng/6.mp3?v=1264059706a0",
+    "/assets/baat-banao/worried-boyfriend-eng/7.mp3?v=735b75076317"
+  ],
+  "recording_count": 141,
+  "revision": "82309a25fca5"
+}

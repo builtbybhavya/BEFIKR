@@ -1,0 +1,2 @@
+source_id,source_name,source_url,license,coverage,collected_at,verification_status,is_synthetic
+SYNTHETIC_GENERATOR,RAAHI synthetic data generator,,Not applicable; fictional demo data,Illustrative Rohini / north-west Delhi-like demo area; not actual mapped coverage,2026-11-14T12:00:00,synthetic_only,True

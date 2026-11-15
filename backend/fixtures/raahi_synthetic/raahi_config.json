@@ -1,0 +1,45 @@
+{
+  "dataset_mode": "SYNTHETIC_DEMO_ONLY",
+  "disclaimer": "All records, coordinates, roads, incidents, lighting, CCTV, footfall and traffic values are fabricated for software testing. Not suitable for real-world navigation, safety decisions, or public claims.",
+  "risk_inputs": {
+    "incident_risk": 0.25,
+    "report_freshness": 0.15,
+    "population_foot_traffic_risk": 0.1,
+    "lighting_risk": 0.1,
+    "time_of_day_risk": 0.1,
+    "historical_risk": 0.1,
+    "isolation_risk": 0.1
+  },
+  "weight_sum": 0.9,
+  "scoring": {
+    "input_range": [
+      0,
+      100
+    ],
+    "score": "sum(weight * available_input_score) / sum(available_weights)",
+    "coverage": "sum(weights of available inputs)",
+    "confidence": "round(100 * coverage * (0.35 + 0.65 * corroboration))",
+    "corroboration_range": [
+      0,
+      1
+    ],
+    "insufficient_if": "coverage < 0.40 OR confidence < 35"
+  },
+  "route_scoring": {
+    "length_weighted_average": "sum(stretch_length_km * stretch_score) / sum(scored_stretch_lengths)",
+    "route_score": "0.70 * length_weighted_average + 0.30 * highest_stretch_score",
+    "route_confidence": "round(sum(stretch_length_km * stretch_confidence) / sum(scored_stretch_lengths))",
+    "insufficient_if": "no scored stretches OR route_confidence < 35"
+  },
+  "risk_colors": {
+    "GREEN": "score < 35",
+    "YELLOW": "35 <= score < 65",
+    "RED": "score >= 65"
+  },
+  "notes": [
+    "Risk score and confidence are distinct.",
+    "GREEN means lower reported risk, not guaranteed safety.",
+    "Missing input values must remain missing, not be replaced with zero.",
+    "CCTV is not one of the seven weighted inputs."
+  ]
+}

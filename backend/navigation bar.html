@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BEFIKR - Bottom Navigation Bar</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['"Plus Jakarta Sans"', 'sans-serif']
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-[#fdfbf7] h-full flex items-center justify-center p-4 sm:p-8 font-sans">
+
+    <!-- Showcase Container -->
+    <div class="w-full max-w-4xl flex flex-col items-center justify-center space-y-8">
+        
+        <!-- Header Info -->
+        <div class="text-center space-y-2">
+            <h2 class="text-2xl sm:text-3xl font-extrabold text-stone-800 tracking-tight">BEFIKR Navigation Component</h2>
+            <p class="text-xs sm:text-sm text-stone-500">Exact replica of the 5-item pill-badge bottom navigation bar</p>
+        </div>
+
+        <!-- BOTTOM NAVIGATION BAR COMPONENT -->
+        <nav class="w-full max-w-3xl bg-white/90 backdrop-blur-xl shadow-[0_10px_30px_rgba(0,0,0,0.06)] rounded-3xl p-4 sm:p-5 border border-stone-100 transition-all duration-300">
+            <div class="flex items-center justify-around gap-1 sm:gap-3">
+                
+                <!-- 1. Raahi (Purple) -->
+                <button onclick="selectNav(this, 'Raahi')" class="nav-item group flex flex-col items-center focus:outline-none transition-all duration-300 transform active:scale-95">
+                    <div class="w-14 h-9 sm:w-16 sm:h-10 rounded-full bg-purple-100 flex items-center justify-center text-purple-600 transition-all duration-300 group-hover:bg-purple-200 group-hover:shadow-md group-hover:scale-105">
+                        <i class="fa-solid fa-map text-base sm:text-lg"></i>
+                    </div>
+                    <span class="text-xs sm:text-sm font-semibold text-stone-700 mt-2 tracking-tight group-hover:text-purple-600 transition-colors">Raahi</span>
+                </button>
+
+                <!-- 2. Raaz (Magenta / Pink) -->
+                <button onclick="selectNav(this, 'Raaz')" class="nav-item group flex flex-col items-center focus:outline-none transition-all duration-300 transform active:scale-95">
+                    <div class="w-14 h-9 sm:w-16 sm:h-10 rounded-full bg-pink-100 flex items-center justify-center text-pink-600 transition-all duration-300 group-hover:bg-pink-200 group-hover:shadow-md group-hover:scale-105">
+                        <i class="fa-solid fa-bullhorn text-base sm:text-lg"></i>
+                    </div>
+                    <span class="text-xs sm:text-sm font-semibold text-stone-700 mt-2 tracking-tight group-hover:text-pink-600 transition-colors">Raaz</span>
+                </button>
+
+                <!-- 3. Baat Banao (Amber / Yellow) -->
+                <button onclick="selectNav(this, 'Baat Banao')" class="nav-item group flex flex-col items-center focus:outline-none transition-all duration-300 transform active:scale-95">
+                    <div class="w-14 h-9 sm:w-16 sm:h-10 rounded-full bg-amber-100 flex items-center justify-center text-amber-500 transition-all duration-300 group-hover:bg-amber-200 group-hover:shadow-md group-hover:scale-105">
+                        <i class="fa-solid fa-phone text-base sm:text-lg"></i>
+                    </div>
+                    <span class="text-xs sm:text-sm font-semibold text-stone-700 mt-2 tracking-tight group-hover:text-amber-600 transition-colors">Baat Banao</span>
+                </button>
+
+                <!-- 4. Backup (Mint Green) -->
+                <button onclick="selectNav(this, 'Backup')" class="nav-item group flex flex-col items-center focus:outline-none transition-all duration-300 transform active:scale-95">
+                    <div class="w-14 h-9 sm:w-16 sm:h-10 rounded-full bg-emerald-100 flex items-center justify-center text-emerald-600 transition-all duration-300 group-hover:bg-emerald-200 group-hover:shadow-md group-hover:scale-105">
+                        <i class="fa-solid fa-shield-halved text-base sm:text-lg"></i>
+                    </div>
+                    <span class="text-xs sm:text-sm font-semibold text-stone-700 mt-2 tracking-tight group-hover:text-emerald-600 transition-colors">Backup</span>
+                </button>
+
+                <!-- 5. Safe Spot (Red / Rose) -->
+                <button onclick="selectNav(this, 'Safe Spot')" class="nav-item group flex flex-col items-center focus:outline-none transition-all duration-300 transform active:scale-95">
+                    <div class="w-14 h-9 sm:w-16 sm:h-10 rounded-full bg-rose-100 flex items-center justify-center text-rose-500 transition-all duration-300 group-hover:bg-rose-200 group-hover:shadow-md group-hover:scale-105">
+                        <i class="fa-solid fa-location-dot text-base sm:text-lg"></i>
+                    </div>
+                    <span class="text-xs sm:text-sm font-semibold text-stone-700 mt-2 tracking-tight group-hover:text-rose-500 transition-colors">Safe Spot</span>
+                </button>
+
+            </div>
+        </nav>
+
+        <!-- Status Indicator Card -->
+        <div id="statusCard" class="text-xs font-medium text-stone-500 px-4 py-2 bg-white rounded-full shadow-sm border border-stone-200">
+            Click any navigation item above to test interaction
+        </div>
+
+    </div>
+
+    <!-- Interactive Script -->
+    <script>
+        function selectNav(button, name) {
+            // Remove active states from all buttons if needed
+            const statusCard = document.getElementById('statusCard');
+            statusCard.innerHTML = `<i class="fa-solid fa-circle-check text-emerald-500 mr-1.5"></i> Selected: <strong class="text-stone-800">${name}</strong>`;
+            
+            // Add a temporary subtle scale animation on click
+            const pill = button.querySelector('div');
+            pill.classList.add('ring-2', 'ring-offset-2', 'ring-stone-400');
+            setTimeout(() => {
+                pill.classList.remove('ring-2', 'ring-offset-2', 'ring-stone-400');
+            }, 400);
+        }
+    </script>
+</body>
+</html>

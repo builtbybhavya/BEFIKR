@@ -1,0 +1,35 @@
+Category,Place Name,Area / Locality,City,Place Type,Latitude,Longitude,Google_Maps_Link
+Cafe,Indian Coffee House,Connaught Place,New Delhi,Cafe,28.6328,77.2195,https://www.google.com/maps/search/?api=1&query=28.6328%2C77.2195
+Cafe,United Coffee House,Connaught Place,New Delhi,Cafe / Restaurant,28.6329,77.2177,https://www.google.com/maps/search/?api=1&query=28.6329%2C77.2177
+Cafe,Blue Tokai Coffee Roasters,Saket,New Delhi,Cafe,28.5248,77.2060,https://www.google.com/maps/search/?api=1&query=28.5248%2C77.2060
+Cafe,Cafe Dori,Dhan Mill Compound Chhatarpur,New Delhi,Cafe,28.5156,77.1857,https://www.google.com/maps/search/?api=1&query=28.5156%2C77.1857
+Cafe,AMA Cafe,Majnu Ka Tilla,New Delhi,Cafe,28.7003,77.2277,https://www.google.com/maps/search/?api=1&query=28.7003%2C77.2277
+Cafe,Big Chill Cafe,Khan Market,New Delhi,Cafe / Restaurant,28.6001,77.2270,https://www.google.com/maps/search/?api=1&query=28.6001%2C77.2270
+Cafe,Cha Bar,Connaught Place,New Delhi,Cafe / Book Cafe,28.6328,77.2190,https://www.google.com/maps/search/?api=1&query=28.6328%2C77.2190
+Cafe,Rose Cafe,Saket,New Delhi,Cafe,28.5232,77.2050,https://www.google.com/maps/search/?api=1&query=28.5232%2C77.2050
+Park,Lodhi Garden,Lodhi Road,New Delhi,Garden / Park,28.5921,77.2188,https://www.google.com/maps/search/?api=1&query=28.5921%2C77.2188
+Park,Deer Park,Hauz Khas,New Delhi,Park,28.5535,77.1900,https://www.google.com/maps/search/?api=1&query=28.5535%2C77.1900
+Park,Garden of Five Senses,Said-ul-Ajaib Saket,New Delhi,Garden / Park,28.5144,77.2023,https://www.google.com/maps/search/?api=1&query=28.5144%2C77.2023
+Park,Nehru Park,Chanakyapuri,New Delhi,Park,28.5985,77.1870,https://www.google.com/maps/search/?api=1&query=28.5985%2C77.1870
+Park,Sanjay Van,Vasant Kunj Mehrauli,New Delhi,Urban Forest / Park,28.5300,77.1840,https://www.google.com/maps/search/?api=1&query=28.5300%2C77.1840
+Park,Central Park,Connaught Place,New Delhi,Park,28.6328,77.2197,https://www.google.com/maps/search/?api=1&query=28.6328%2C77.2197
+Park,Japanese Park,Rohini,Delhi,Park,28.7280,77.1120,https://www.google.com/maps/search/?api=1&query=28.7280%2C77.1120
+Monument,India Gate,Kartavya Path,New Delhi,Monument,28.6129,77.2295,https://www.google.com/maps/search/?api=1&query=28.6129%2C77.2295
+Monument,Humayun's Tomb,Nizamuddin East,New Delhi,UNESCO Heritage Site,28.5933,77.2507,https://www.google.com/maps/search/?api=1&query=28.5933%2C77.2507
+Monument,Qutub Minar,Mehrauli,New Delhi,UNESCO Heritage Site,28.5245,77.1859,https://www.google.com/maps/search/?api=1&query=28.5245%2C77.1859
+Monument,Safdarjung Tomb,Lodhi Road,New Delhi,Monument,28.5895,77.2105,https://www.google.com/maps/search/?api=1&query=28.5895%2C77.2105
+Monument,Purana Qila,Mathura Road,New Delhi,Historic Fort,28.6090,77.2430,https://www.google.com/maps/search/?api=1&query=28.6090%2C77.2430
+Monument,Jantar Mantar,Connaught Place,New Delhi,Historic Observatory,28.6275,77.2167,https://www.google.com/maps/search/?api=1&query=28.6275%2C77.2167
+Monument,Agrasen ki Baoli,Hailey Road,New Delhi,Historic Stepwell,28.6260,77.2250,https://www.google.com/maps/search/?api=1&query=28.6260%2C77.2250
+Monument,Red Fort,Chandni Chowk,Delhi,UNESCO Heritage Site,28.6562,77.2410,https://www.google.com/maps/search/?api=1&query=28.6562%2C77.2410
+Crowded Area / Market,Lajpat Nagar Central Market,Lajpat Nagar,New Delhi,Shopping Market,28.5690,77.2408,https://www.google.com/maps/search/?api=1&query=28.5690%2C77.2408
+Crowded Area / Market,Sarojini Nagar Market,Sarojini Nagar,New Delhi,Shopping Market,28.5773,77.1963,https://www.google.com/maps/search/?api=1&query=28.5773%2C77.1963
+Crowded Area / Market,Connaught Place,Central Delhi,New Delhi,Commercial / Shopping District,28.6328,77.2197,https://www.google.com/maps/search/?api=1&query=28.6328%2C77.2197
+Crowded Area / Market,Khan Market,Khan Market,New Delhi,Shopping / Dining Market,28.5984,77.2295,https://www.google.com/maps/search/?api=1&query=28.5984%2C77.2295
+Crowded Area / Market,Karol Bagh Market,Karol Bagh,Delhi,Shopping Market,28.6514,77.1907,https://www.google.com/maps/search/?api=1&query=28.6514%2C77.1907
+Crowded Area / Market,Chandni Chowk,Old Delhi,Delhi,Historic Market,28.6560,77.2310,https://www.google.com/maps/search/?api=1&query=28.6560%2C77.2310
+Crowded Area / Market,Janpath Market,Janpath Connaught Place,New Delhi,Street Market,28.6265,77.2190,https://www.google.com/maps/search/?api=1&query=28.6265%2C77.2190
+Crowded Area / Market,Hauz Khas Village,Hauz Khas,New Delhi,Dining / Nightlife Area,28.5535,77.1932,https://www.google.com/maps/search/?api=1&query=28.5535%2C77.1932
+Crowded Area / Market,Dilli Haat,INA,New Delhi,Crafts / Food Market,28.5732,77.2085,https://www.google.com/maps/search/?api=1&query=28.5732%2C77.2085
+Crowded Area / Market,Select CITYWALK,Saket,New Delhi,Shopping Mall,28.5285,77.2190,https://www.google.com/maps/search/?api=1&query=28.5285%2C77.2190
+Crowded Area / Market,Pacific Mall,Tagore Garden,New Delhi,Shopping Mall,28.6425,77.1120,https://www.google.com/maps/search/?api=1&query=28.6425%2C77.1120

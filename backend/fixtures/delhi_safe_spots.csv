@@ -1,0 +1,126 @@
+ID,Category,Sub_Category,Name,Address,District_Area,Latitude,Longitude,Phone,Notes,Confidence,Source
+1,Police Station,Territorial,Parliament Street (Sansad Marg) PS,Parliament Street New Delhi 110001,New Delhi,28.6193,77.2083,NA,Near Parliament House,M,[Prior]
+2,Police Station,Territorial,Connaught Place PS,"20A Baba Kharak Singh Rd, Hanuman Road Area, New Delhi 110001",New Delhi,28.6329,77.2197,011-23747100,CP inner circle area,M,[Prior]
+3,Police Station,Territorial,Barakhamba Road PS,"2 Barakhamba Lane, Connaught Place, New Delhi 110001",New Delhi,28.6295,77.2254,011-23413800,,M,[Prior]
+4,Police Station,Territorial,Chanakyapuri PS,Chanakyapuri New Delhi 110021,New Delhi,28.5967,77.1981,NA,Diplomatic enclave,H,[Prior]
+5,Police Station,Territorial,Tilak Marg PS,Bhairon Marg Near Pragati Maidan Delhi 110001,New Delhi,28.6120,77.2434,011-23382100,,H,[Prior]
+6,Police Station,Territorial,Daryaganj PS,"Darya Ganj, Delhi 110002",Central,28.6468,77.2399,011-23274683,,H,[Prior]
+7,Police Station,Territorial,Paharganj PS,Paharganj New Delhi 110055,Central,28.6448,77.2130,NA,,M,[Prior]
+8,Police Station,Territorial,Karol Bagh PS,Karol Bagh New Delhi 110005,Central,28.6520,77.1897,NA,,M,[Prior]
+9,Police Station,Territorial,Kotwali PS,Kotwali Area Delhi 110006,Central,28.6572,77.2282,NA,,M,[Prior]
+10,Police Station,Territorial,Hauz Khas PS,"A/58 Police Station Colony Block A, Mayfair Gardens, Hauz Khas, New Delhi 110016",South,28.5493,77.2036,011-26867878,,H,[Prior]
+11,Police Station,Territorial,Lajpat Nagar PS,Lajpat Nagar New Delhi 110024,South,28.5676,77.2434,011-26912456,,H,[Prior]
+12,Police Station,Territorial,Malviya Nagar PS,"Main Road Near Aurobindo College, Malviya Nagar, New Delhi 110017",South,28.5325,77.2043,011-26691861,,H,[Prior]
+13,Police Station,Territorial,Saket PS,Saket New Delhi 110017,South,28.5205,77.2082,NA,,M,[Prior]
+14,Police Station,Territorial,Mehrauli PS,Mehrauli New Delhi 110030,South,28.5244,77.1875,NA,,M,[Prior]
+15,Police Station,Territorial,Shahdara PS,"GT Road, Dwarkapuri, Shahdara, Delhi 110032",Shahdara,28.6723,77.2892,011-22832087,,M,[Prior]
+16,Police Station,Territorial,Palam PS,"WZ01 Palam Village Rd, Puran Nagar, New Delhi 110045",South West,28.5891,77.0747,011-25365980,,M,[Prior]
+17,Police Station,Territorial,Model Town PS,2nd Floor PS Model Town Near Model Town Metro New Delhi 110009,North West,28.7140,77.1942,NA,,M,[Prior]
+18,Police Station,Territorial,Pandav Nagar PS,"Pandav Nagar, Near Trilokpuri Sanjay Lake Metro, Delhi 110091",East,28.6243,77.3088,6828401137,,M,[Prior]
+19,Police Station,Territorial,Mayur Vihar PS,Mayur Vihar New Delhi 110091,East,28.6124,77.2958,NA,,M,[Prior]
+20,Police Station,Territorial,Preet Vihar PS,Preet Vihar Delhi 110092,East,28.6417,77.2950,NA,,M,[Prior]
+21,Police Station,Territorial,Gokalpuri PS,Gokalpuri Delhi 110094,North East,28.6896,77.2828,NA,,M,[Prior]
+22,Police Station,Territorial,Seemapuri PS,Seemapuri Delhi 110094,North East,28.6914,77.3006,NA,,M,[Prior]
+23,Police Station,Territorial,Dwarka PS,Dwarka New Delhi 110078,Dwarka,28.5921,77.0460,NA,,M,[Prior]
+24,Police Station,Territorial,Najafgarh PS,Najafgarh Delhi 110043,South West,28.6075,76.9980,NA,,M,[Prior]
+25,Police Station,Territorial,Mundka PS,Mundka Delhi 110041,West,28.6816,77.0291,NA,,M,[Prior]
+26,Police Station,Territorial,Rohini PS,Rohini Delhi 110085,Rohini,28.7336,77.1176,NA,,M,[Prior]
+27,Police Station,Territorial,Alipur PS,Alipur Delhi 110036,Outer North,28.8043,77.1326,NA,,M,[Prior]
+28,Police Station,Territorial,Shalimar Bagh PS,Shalimar Bagh Delhi 110088,North West,28.7148,77.1618,NA,,M,[Prior]
+29,Police Station,Territorial,Sadar Bazaar PS,Sadar Bazaar Delhi 110006,Central,28.6611,77.2040,NA,,M,[Prior]
+30,Police Station,Territorial,Sabzi Mandi PS,Sabzi Mandi Delhi 110007,North,28.6778,77.2126,NA,,M,[Prior]
+31,Police Station,Territorial,Sarita Vihar PS,Sarita Vihar Delhi 110076,South East,28.5347,77.2967,NA,,M,[Prior]
+32,Police Station,Territorial,Nangloi PS,Nangloi Delhi 110041,West,28.6793,77.0576,NA,,L,[Prior]
+33,Police Station,Territorial,Nihal Vihar PS,Nihal Vihar Delhi,West,28.6842,77.0719,NA,,L,[Prior]
+34,Police Station,Territorial,Paschim Vihar West PS,Paschim Vihar West Delhi,West,28.6678,77.0983,NA,,L,[Prior]
+35,Police Station,Territorial,Mangolpuri PS,Mangolpuri Delhi,North West,28.6977,77.0858,NA,,L,[Prior]
+36,Police Station,Territorial,Aman Vihar PS,Aman Vihar North West Delhi,North West,28.7083,77.0741,NA,,L,[Prior]
+37,Police Station,Territorial,Sultanpuri PS,Sultanpuri North West Delhi,North West,28.7194,77.0640,NA,,L,[Prior]
+38,Police Station,Territorial,Prem Nagar PS,Prem Nagar North West Delhi,North West,28.6938,77.0952,NA,,L,[Prior]
+39,Police Station,Territorial,Rohini North PS,Rohini North Delhi,Rohini,28.7482,77.0872,NA,,L,[Prior]
+40,Police Station,Territorial,Rohini South PS,Rohini South Delhi,Rohini,28.7238,77.1148,NA,,L,[Prior]
+41,Police Station,Territorial,Budh Vihar PS,Budh Vihar Rohini Delhi,North West,28.7267,77.0629,NA,,L,[Prior]
+42,Police Station,Territorial,Rithala PS,Rithala Rohini Delhi,North West,28.7461,77.1086,NA,,L,[Prior]
+43,Police Station,Territorial,Samaypur Badli PS,Samaypur Badli Delhi,North West,28.7520,77.1326,NA,,L,[Prior]
+44,Police Station,Territorial,Prashant Vihar PS,Prashant Vihar Rohini Delhi,North West,28.7221,77.1316,NA,,L,[Prior]
+45,Police Station,Territorial,IGI Airport PS,IGI Airport Terminal Area New Delhi 110037,IGI Airport,28.5562,77.1000,NA,,M,[Prior]
+46,Police Station,HQ,Delhi Police Headquarters (PHQ),"2nd Floor Tower-1 PHQ, Jai Singh Road, New Delhi 110001",HQ,28.6264,77.2104,NA,,H,[Prior]
+47,Hospital,Government,Safdarjung Hospital,"Ring Road, Ansari Nagar West, New Delhi 110029",South,28.569765,77.204397,NA,Major govt referral hospital,H,[Prior]
+48,Hospital,Government,Ram Manohar Lohia Hospital,"Baba Kharak Singh Marg, New Delhi 110001",Central,28.62516,77.20019,011-23365525,,H,[Prior]
+49,Hospital,Government,G.B. Pant Hospital (GIPMER),"Jawahar Lal Nehru Marg, Delhi 110002",Central,28.6425,77.2412,011-23238109,,H,[Prior]
+50,Hospital,Government,Lok Nayak Hospital,"Jawahar Lal Nehru Marg, Delhi Gate, New Delhi 110002",Central,28.6418,77.2419,011-23236000,,H,[Prior]
+51,Hospital,Government,Moti Nagar Hospital,Moti Nagar New Delhi 110015,West,28.6621,77.1467,NA,,M,[Prior]
+52,Hospital,Government,Dakshinpuri Hospital,"Block-B Sector-5, Dakshinpuri, New Delhi 110062",South,28.5058,77.2621,NA,,M,[Prior]
+53,Hospital,Government,Deep Chand Bandhu Hospital,Bharat Nagar New Delhi,North,28.6855,77.1725,NA,,L,[Prior]
+54,Hospital,Private,Sir Ganga Ram Hospital,"Sir Ganga Ram Hospital Marg, Rajinder Nagar, Delhi 110060",Central,28.6300,77.1800,NA,,H,[Prior]
+55,Hospital,Private,Indraprastha Apollo Hospital,"Mathura Road, Jasola Vihar, New Delhi 110076",South East,28.5411,77.2833,NA,,H,[Prior]
+56,Hospital,Private,Fortis Flt. Lt. Rajan Dhall Hospital,"Sector B Pocket 1 Aruna Asaf Ali Marg, Vasant Kunj, New Delhi",South West,28.5205,77.1536,NA,,H,[Prior]
+57,Hospital,Private,Moolchand Hospital,"Lala Lajpat Rai Marg, Lajpat Nagar III, New Delhi 110024",South,28.5673,77.2353,NA,,H,[Prior]
+58,Cafe,Specialty Coffee,Blue Tokai Coffee Roasters (Khan Market),Khan Market New Delhi 110003,South,28.6002,77.2273,NA,,M,[Prior]
+59,Cafe,Specialty Coffee,Blue Tokai Coffee Roasters (Safdarjung),Safdarjung Enclave New Delhi 110029,South,28.5713,77.1927,NA,,M,[Prior]
+60,Cafe,Specialty Coffee,Blue Tokai Coffee Roasters (Vasant Vihar),Vasant Vihar New Delhi 110057,South West,28.5554,77.1572,NA,,M,[Prior]
+61,Cafe,Specialty Coffee,Blue Tokai Coffee Roasters (Saket - Bahrisons),Bahrisons Booksellers Saket New Delhi 110017,South,28.5231,77.2158,NA,,M,[Prior]
+62,Cafe,Specialty Coffee,BBR Coffee by Before British Raj,Siri Fort Road New Delhi,South,28.5495,77.2191,NA,,M,[Prior]
+63,Cafe,Specialty Coffee,Ikviti,SDA Market New Delhi 110016,South,28.5553,77.2032,NA,,M,[Prior]
+64,Cafe,Specialty Coffee,SolChemi,Shahpur Jat New Delhi 110049,South,28.5490,77.2141,NA,,M,[Prior]
+65,Cafe,Specialty Coffee,Shack Coffee Co.,Shahpur Jat New Delhi 110049,South,28.5491,77.2143,NA,,M,[Prior]
+66,Cafe,Specialty Coffee,USCO Cafe,Shahpur Jat New Delhi 110049,South,28.5493,77.2140,NA,,M,[Prior]
+67,Cafe,Specialty Coffee,Roastery Coffee House,Dwarka New Delhi 110078,Dwarka,28.5912,77.0460,NA,,M,[Prior]
+68,Cafe,Specialty Coffee,Devan's at Lodhi,"New Khanna Market, Lodhi Colony, New Delhi 110003",South,28.5929,77.2208,NA,,M,[Prior]
+69,Cafe,Specialty Coffee,Seven Seeds Coffee,"Near Deer Park, Green Park, New Delhi 110016",South,28.5581,77.1996,NA,,M,[Prior]
+70,Restaurant,Food Court,Dilli Haat Food Stalls (INA),"Aurobindo Marg, New Delhi (opp. INA Market)",South,28.5759,77.2077,011-26119055,Official Delhi Tourism site,H,[Prior]
+71,Restaurant,Food Court,Dilli Haat Food Stalls (Pitampura),"Near TV Tower, Pitampura, New Delhi",North West,28.7025,77.1437,NA,Official Delhi Tourism site,H,[Prior]
+72,Restaurant,Heritage,United Coffee House,"E-15 Connaught Place, New Delhi 110001",Central,28.6329,77.2197,NA,,M,[Prior]
+73,Restaurant,Bakery,Wenger's Confectioners,"A-16 Connaught Place, New Delhi 110001",Central,28.6330,77.2170,NA,,M,[Prior]
+74,Restaurant,Heritage,Embassy Restaurant,"D-13 Connaught Place, New Delhi 110001",Central,28.6321,77.2199,NA,,M,[Prior]
+75,Restaurant,Heritage,Kwality Restaurant,Connaught Place New Delhi 110001,Central,28.6323,77.2195,NA,,M,[Prior]
+76,Park,Heritage,Lodi Gardens,"Lodi Road between Khan Market and Safdarjung Tomb, New Delhi",South,28.5932,77.2199,NA,90 acres,H,[Prior]
+77,Park,Heritage,Sunder Nursery,"Mathura Road, Nizamuddin East, New Delhi 110013",South,28.596874,77.245339,NA,90 acres; 6 UNESCO-listed structures,H,[Prior]
+78,Park,Urban,Deer Park,Green Park New Delhi 110016,South,28.5593,77.2001,NA,,M,[Prior]
+79,Park,Urban,Central Park Connaught Place,Connaught Place (Rajiv Chowk) New Delhi 110001,Central,28.6330,77.2197,NA,Small urban green,M,[Prior]
+80,Park,Heritage,Qutb Minar Complex Park,"Mehrauli, New Delhi 110030",South,28.5245,77.1855,NA,UNESCO WHS,H,[Prior]
+81,Park,Heritage,Humayun's Tomb Gardens,"Mathura Road, Nizamuddin East, Delhi 110013",South,28.5933,77.2507,NA,UNESCO WHS,H,[Prior]
+82,Public Space,Monument,Red Fort (Lal Qila),"Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi 110006",Old Delhi,28.6562,77.2410,NA,UNESCO WHS 2007,H,[Prior]
+83,Public Space,Monument,Qutb Minar Complex,"Mehrauli, New Delhi 110030",South,28.5245,77.1855,NA,UNESCO WHS 1993,H,[Prior]
+84,Public Space,Monument,Humayun's Tomb,"Mathura Road, Nizamuddin East, Delhi 110013",South,28.5933,77.2507,NA,UNESCO WHS 1993,H,[Prior]
+85,Public Space,Religious,Lotus Temple,"Bahapur Road, Kalkaji, New Delhi",South,28.553558,77.259132,NA,Bahai House of Worship; free entry,H,[Prior]
+86,Public Space,Commercial Hub,Connaught Place (Rajiv Chowk),Rajiv Chowk New Delhi 110001,Central,28.6330,77.2197,NA,,H,[Prior]
+87,Public Space,Craft Bazaar,Dilli Haat INA,"Aurobindo Marg opp. INA Market, New Delhi",South,28.5759,77.2077,NA,Entry INR 30 adults,H,[Prior]
+88,Public Space,Craft Bazaar,Dilli Haat Pitampura,"Near TV Tower, Pitampura, New Delhi",North West,28.7025,77.1437,NA,,H,[Prior]
+89,Public Space,Heritage Village,Hauz Khas Village Complex,"Hauz Khas, New Delhi 110016",South,28.549507,77.203613,NA,,H,[Prior]
+90,Public Space,Exhibition,Pragati Maidan (ITPO),"Bhairon Marg, New Delhi 110001",Central,28.6120,77.2434,NA,,H,[Prior]
+91,Public Space,Monument,India Gate,"Rajpath (Kartavya Path), New Delhi",Central,28.612894,77.229446,NA,War memorial; 42m arch,H,[[10]](<https://www.latlong.net/place/the-india-gate-new-delhi-india-31530.html>)
+92,Crowded Place,Traditional Market,Chandni Chowk Market,"Chandni Chowk Road, Old Delhi 110006",Old Delhi,28.6560,77.2310,NA,"One of India's largest wholesale markets; established 1650; pedestrianised daylight hours [[3]](<https://en.wikipedia.org/wiki/Chandni_Chowk>)",H,[[3]](<https://en.wikipedia.org/wiki/Chandni_Chowk>)
+93,Crowded Place,Traditional Market,Khari Baoli (Spice Market),"Khari Baoli Street, Chandni Chowk, Old Delhi",Old Delhi,28.658381,77.220037,NA,Asia's largest spice market; street within Chandni Chowk area [[21]](<https://www.findlatitudeandlongitude.com/l/khari+baoli%2C+delhi/1045033/>),M,[[21]](<https://www.findlatitudeandlongitude.com/l/khari+baoli%2C+delhi/1045033/>)
+94,Crowded Place,Traditional Market,Lajpat Nagar Central Market,Lajpat Nagar New Delhi 110024,South,28.569271,77.244110,NA,"One of Delhi's largest markets; divided into LN I-IV [[1]](<https://www.latlong.net/place/lajpat-nagar-new-delhi-delhi-india-22494.html>)",M,[[1]](<https://www.latlong.net/place/lajpat-nagar-new-delhi-delhi-india-22494.html>)
+95,Crowded Place,Traditional Market,Karol Bagh Market,Karol Bagh New Delhi 110005,Central,28.661369,77.194405,NA,"Large commercial and shopping hub; well-known farmer's markets [[2]](<https://www.latlong.net/place/karol-bagh-new-delhi-delhi-india-22888.html>)",M,[[2]](<https://www.latlong.net/place/karol-bagh-new-delhi-delhi-india-22888.html>)
+96,Crowded Place,Underground Market,Palika Bazaar,Connaught Place Inner Circle New Delhi 110001,Central,28.6310,77.2186,NA,"380 shops; estimated 15000 people at any given time [[4]](<https://en.wikipedia.org/wiki/Palika_Bazaar>)",H,[[4]](<https://en.wikipedia.org/wiki/Palika_Bazaar>)
+97,Crowded Place,Traditional Market,Sarojini Nagar Market,Sarojini Nagar New Delhi,South West,28.5795,77.1971,NA,"Considered Asia's largest popular market [[16]](<https://en.wikipedia.org/wiki/Sarojini_Nagar>); served by Pink Line metro",H,[[16]](<https://en.wikipedia.org/wiki/Sarojini_Nagar>)
+98,Crowded Place,Traditional Market,Nehru Place IT Market,Nehru Place South East Delhi,South East,28.5472,77.2508,NA,"Large IT and electronics commercial centre [[5]](<https://en.wikipedia.org/wiki/Nehru_Place>); Violet Line and Magenta Line metro",H,[[5]](<https://en.wikipedia.org/wiki/Nehru_Place>)
+99,Crowded Place,Traditional Market,Rajouri Garden Main Market,Rajouri Garden West Delhi,West,28.6441,77.1118,NA,"Major West Delhi commercial hub [[6]](<https://en.wikipedia.org/wiki/Rajouri_Garden>); Blue and Pink Line interchange metro",H,[[6]](<https://en.wikipedia.org/wiki/Rajouri_Garden>)
+100,Crowded Place,Traditional Market,INA Market,"Aurobindo Marg, INA Colony, New Delhi",South,28.5759,77.2077,NA,Known for food produce and ethnic goods; adjacent to Dilli Haat,M,[[13]](<https://www.coordinatesfinder.com/coordinates/428090-ina-market-delhi>)
+101,Crowded Place,Traditional Market,Laxmi Nagar Market,Laxmi Nagar New Delhi,East,28.636589,77.274315,NA,"Large central commercial market; Yamuna riverbank area [[12]](<https://www.latlong.net/place/laxmi-nagar-new-delhi-delhi-india-5644.html>)",M,[[12]](<https://www.latlong.net/place/laxmi-nagar-new-delhi-delhi-india-5644.html>)
+102,Crowded Place,Traditional Market,Majnu Ka Tilla (Tibetan Market),"Majnu Ka Tilla, North Delhi",North,28.70137,77.22816,NA,"Tibetan settlement with monastery and market; near ISBT Kashmere Gate [[17]](<https://en.wikipedia.org/wiki/Majnu_Ka_Tilla>)",H,[[17]](<https://en.wikipedia.org/wiki/Majnu_Ka_Tilla>)
+103,Crowded Place,Religious Site,Gurudwara Bangla Sahib,"Ashoka Road, Connaught Place, New Delhi 110001",Central,28.6267,77.2089,NA,"Most prominent Sikh gurdwara in Delhi; built 1783 [[9]](<https://latitude.to/articles-by-country/in/india/11960/gurudwara-bangla-sahib>)",M,[[9]](<https://latitude.to/articles-by-country/in/india/11960/gurudwara-bangla-sahib>)
+104,Crowded Place,Religious Site,Laxminarayan Temple (Birla Mandir),"Mandir Marg, New Delhi 110005",Central,28.6328,77.1989,NA,Major Hindu temple; coordinates from Wikipedia infobox [[18]](<https://en.wikipedia.org/wiki/Laxminarayan_Temple>),H,[[18]](<https://en.wikipedia.org/wiki/Laxminarayan_Temple>)
+105,Crowded Place,Religious Site,Swaminarayan Akshardham Temple,"NH-24, Noida Link Road, New Delhi 110092",East,28.612551,77.277155,NA,Large temple complex on Yamuna riverside [[8]](<https://www.findlatitudeandlongitude.com/l/Swaminarayan+Akshardham+Temple%2C+NH-24%2C+Delhi/1561356/>); reverse-geocoded approximation,M,[[8]](<https://www.findlatitudeandlongitude.com/l/Swaminarayan+Akshardham+Temple%2C+NH-24%2C+Delhi/1561356/>)
+106,Crowded Place,Religious Site,Lotus Temple (Bahai House of Worship),"Bahapur Road, Kalkaji, New Delhi",South,28.553558,77.259132,NA,"Free entry; near Nehru Place [[5]](<https://en.wikipedia.org/wiki/Nehru_Place>); one of Delhi's most visited religious sites",H,[Prior]
+107,Crowded Place,Transit Hub,New Delhi Railway Station,Paharganj New Delhi 110055,Central,28.6428,77.2190,NA,"~500000 daily passengers; 16 platforms; Yellow Line and Airport Express metro [[19]](<https://en.wikipedia.org/wiki/New_Delhi_railway_station>)",H,[[19]](<https://en.wikipedia.org/wiki/New_Delhi_railway_station>)
+108,Crowded Place,Transit Hub,Hazrat Nizamuddin Railway Station,"Station Road, Nizamuddin East, New Delhi 110013",South,28.5892,77.2542,NA,"~360000 daily passengers; Pink Line metro; Sarai Kale Khan ISBT nearby [[20]](<https://en.wikipedia.org/wiki/Hazrat_Nizamuddin_railway_station>)",H,[[20]](<https://en.wikipedia.org/wiki/Hazrat_Nizamuddin_railway_station>)
+109,Crowded Place,Transit Hub,Indira Gandhi International Airport (DEL),"Palam, New Delhi 110037",South West,28.556160,77.100281,NA,"Serves 40M+ passengers/year; Airport Express metro connects to T3 [[26]](<https://www.latlong.net/place/indira-gandhi-international-airport-del-new-delhi-delhi-india-9897.html>)[[27]](<https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport>)",H,[[26]](<https://www.latlong.net/place/indira-gandhi-international-airport-del-new-delhi-delhi-india-9897.html>)
+110,Crowded Place,Shopping Mall,Select Citywalk (Nexus),"Saket District Centre Sector-6, Pushp Vihar, Delhi",South,28.5290,77.2191,NA,"1.3M sq ft built-up area; opened Oct 2007 [[28]](<https://en.wikipedia.org/wiki/Nexus_Select_Citywalk>)",H,[[28]](<https://en.wikipedia.org/wiki/Nexus_Select_Citywalk>)
+111,Crowded Place,Shopping Mall,Ambience Mall Vasant Kunj,Vasant Kunj New Delhi,South West,28.527335,77.151545,NA,Major upscale mall; reverse-geocoded approximation [[23]](<https://www.findlatitudeandlongitude.com/l/AMBIENCE+MALL%2C+VASANT+KUNJ.+NEW+DELHI./2885336/>),M,[[23]](<https://www.findlatitudeandlongitude.com/l/AMBIENCE+MALL%2C+VASANT+KUNJ.+NEW+DELHI./2885336/>)
+112,Crowded Place,Shopping Mall,DLF Promenade,Vasant Kunj New Delhi,South West,28.527335,77.151545,NA,"Adjacent to Ambience Mall VK; same complex zone [[24]](<https://www.findlatitudeandlongitude.com/l/DLF+Promenade%2C+Vasant+Kunj%2C+New+Delhi/1480766/>)",M,[[24]](<https://www.findlatitudeandlongitude.com/l/DLF+Promenade%2C+Vasant+Kunj%2C+New+Delhi/1480766/>)
+113,Crowded Place,Shopping Mall,Pacific Mall Tagore Garden,"Tagore Garden, New Delhi",West,28.648876,77.109683,NA,Major West Delhi mall; reverse-geocoded approximation [[25]](<https://www.findlatitudeandlongitude.com/l/Pacific+Mall%2C+Tagore+Garden%2C+New+Delhi/1537493/>),M,[[25]](<https://www.findlatitudeandlongitude.com/l/Pacific+Mall%2C+Tagore+Garden%2C+New+Delhi/1537493/>)
+114,Crowded Place,Traditional Market,South Extension Market (Part I & II),"South Extension Part I & II, New Delhi",South,28.5700,77.2200,NA,Upscale market strip; coordinates are neighbourhood-level approximation — no source in evidence base provides exact point; geocode required,L,No current evidence
+115,Crowded Place,Traditional Market,Greater Kailash M-Block Market,"M-Block, Greater Kailash I, New Delhi",South,28.5500,77.2300,NA,Upscale market; neighbourhood-level approximation only — no source in evidence base provides exact point; geocode required,L,No current evidence
+116,Crowded Place,Traditional Market,Kamla Nagar Market,"Kamla Nagar, North Delhi",North,28.6900,77.2050,NA,Student market near Delhi University; neighbourhood-level approximation only — no source in evidence base provides exact point; geocode required,L,No current evidence
+117,Crowded Place,Traditional Market,Shahdara Market,"Shahdara, East Delhi",Shahdara,28.6723,77.2892,NA,Approximate coordinates aligned with Shahdara PS location from prior data; no dedicated market coordinate source in evidence base,L,No current evidence
+118,Crowded Place,Traditional Market,Laxmi Nagar Market (Main Chowk),Laxmi Nagar East Delhi,East,28.636589,77.274315,NA,Coordinates same as Laxmi Nagar neighbourhood centroid [[12]](<https://www.latlong.net/place/laxmi-nagar-new-delhi-delhi-india-5644.html>); market is within this zone,M,[[12]](<https://www.latlong.net/place/laxmi-nagar-new-delhi-delhi-india-5644.html>)
+119,Crowded Place,Transit Hub,ISBT Kashmere Gate,"Kashmere Gate, Delhi 110006",North,28.6671,77.2278,NA,"Majnu Ka Tilla is walkable from here [[17]](<https://en.wikipedia.org/wiki/Majnu_Ka_Tilla>); exact ISBT point coordinate not in evidence base — approximate from Kashmere Gate area; geocode required",L,[[17]](<https://en.wikipedia.org/wiki/Majnu_Ka_Tilla>)
+120,Crowded Place,Transit Hub,Anand Vihar ISBT,Anand Vihar Delhi 110092,East,,NA,NA,Exact coordinates not in current evidence base; geocode required,L,No current evidence
+121,Crowded Place,Religious Site,Dargah Hazrat Nizamuddin (Nizamuddin Dargah),"Nizamuddin West, New Delhi 110013",South,,NA,NA,Major Sufi shrine; exact coordinates not in current evidence base — approximate from Nizamuddin Railway Station vicinity (28.5892 N 77.2542 E) but dedicated source missing; geocode required,L,No current evidence
+122,Crowded Place,Religious Site,ISKCON Temple (East of Kailash),"Hare Krishna Hill, Sant Nagar, East of Kailash, New Delhi 110065",South,,NA,NA,Exact coordinates not in current evidence base; geocode required,L,No current evidence
+123,Crowded Place,Religious Site,Chhatarpur Temple,"Chhatarpur Road, New Delhi 110074",South,,NA,NA,One of Asia's largest temple complexes; exact coordinates not in current evidence base; geocode required,L,No current evidence
+124,Crowded Place,Traditional Market,Sarojini Nagar Market (precise centroid),Sarojini Nagar New Delhi,South West,28.5728,77.1910,NA,"Alternate DMS-derived coordinate from mapping aggregator [[15]](<https://latitude.to/articles-by-country/in/india/20176/sarojini-nagar>); cross-reference with Wikipedia figure (28.5795 / 77.1971) in Row 97",M,[[15]](<https://latitude.to/articles-by-country/in/india/20176/sarojini-nagar>)
+125,Crowded Place,Traditional Market,Daryaganj Sunday Book Market,"Netaji Subhash Marg, Daryaganj, Delhi 110002",Central,28.6468,77.2399,NA,Coordinate aligned with Daryaganj PS (prior data); market held on road along Yamuna; dedicated market coordinates not in evidence base,L,[Prior]
